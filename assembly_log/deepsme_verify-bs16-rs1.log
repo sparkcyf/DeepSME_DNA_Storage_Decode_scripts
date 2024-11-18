@@ -1,0 +1,2314 @@
+Running with SEQ_BATCH_SIZE=16, RANDOM_SEED=1
+Process 0 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.66it/s]100%|██████████| 1/1 [00:00<00:00,  8.65it/s]
+Process 0 done.
+Process 0 is correct! ✅
+Process 1 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.53it/s]100%|██████████| 1/1 [00:00<00:00,  8.52it/s]
+Process 1 done.
+Process 1 is correct! ✅
+Process 2 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.51it/s]100%|██████████| 1/1 [00:00<00:00,  9.50it/s]
+Process 2 done.
+Process 2 is correct! ✅
+Process 3 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.45it/s]100%|██████████| 1/1 [00:00<00:00,  9.44it/s]
+Process 3 done.
+Process 3 is correct! ✅
+Process 4 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.95it/s]100%|██████████| 1/1 [00:00<00:00,  8.94it/s]
+Process 4 done.
+Process 4 is correct! ✅
+Process 5 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.27it/s]100%|██████████| 1/1 [00:00<00:00,  9.26it/s]
+Process 5 done.
+Process 5 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTCCAGCCTGAACTAGTTCCCGGCCTGAACTAGTTCTCACCTTGCTAGGGAACGAAGTGTTCTCGCCGACACAGTGGGCCTTACGATAGCCGATCTGGCTTACCGTGACTGTACGCGATGAGGCCTGGATTACCAGCTCGGATAAAAGGAGGCGTATAACCATTACGGCCTGGGTAGACGGAATAGTGACTGATACTCTAATCCAACCTATGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTCCGGCCTGAACTAGTTCCCGGCCTGAACTAGTTCTCACCTTGCTAGGGAACGAAGTGTTCTCGCCGACACAGTGGGCCTTACGATAGCCGATCTGGCTTACCGTGACTGTACGCGATGAGGCCTGGATTACCAGCTCGGATAAAAGGAGGCGTATAACCATTACGGCCTGGGTAGACGGAATAGTGACTGATACTCTAATCCAACCTATGAAGATAGAGC
+error counts = 1
+
+Process 6 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.49it/s]100%|██████████| 1/1 [00:00<00:00,  8.48it/s]
+Process 6 done.
+Process 6 is correct! ✅
+Process 7 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.68it/s]100%|██████████| 1/1 [00:00<00:00,  9.67it/s]
+Process 7 done.
+Process 7 is correct! ✅
+Process 8 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.20it/s]100%|██████████| 1/1 [00:00<00:00,  9.19it/s]
+Process 8 done.
+Process 8 is correct! ✅
+Process 9 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.73it/s]100%|██████████| 1/1 [00:00<00:00,  9.71it/s]
+Process 9 done.
+Process 9 is correct! ✅
+Process 10 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.84it/s]100%|██████████| 1/1 [00:00<00:00,  8.83it/s]
+Process 10 done.
+Process 10 is correct! ✅
+Process 11 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.30it/s]100%|██████████| 1/1 [00:00<00:00,  8.29it/s]
+Process 11 done.
+Process 11 is correct! ✅
+Process 12 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.28it/s]100%|██████████| 1/1 [00:00<00:00,  9.27it/s]
+Process 12 done.
+Process 12 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAAGACAGACCCTCCCAAGGCGAAGAAACCAGACTCTGCACTGTAAGTCTCGAGCTTGGATCGTTCTCCGGCTAGGCCTTTGAGCGTGGACTTGAGCAAACTAAGTGCATGCCAGAGATGGCCTCTACGTCGTCTGAGGCAGGCTCGGTGTCGTGTGGGAATTTGGCCTACCCAATCTAGTGCCCGAATGTAGCCTTAACGACTCGCAAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAAGACAGACCCTCCCAAGGCGAAGAAACCAGACTCTGCACTGTAAGTCTCGAGCTTGGATCGTTCTCCGGCTAGGCCTTTGAGCGTGGACTTGAGCAAACTAAGTGCATGCCAGAGATGGCCTCTACGTCGTCTGAGGCAGGCTCGGTGTCGTGTGGGAATTTGGCCTACCCAATCTAGTGCCCGAATGTAGCCTTAACGACTCGCAGGAAGATAGAGC
+error counts = 1
+
+Process 13 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  6.32it/s]100%|██████████| 1/1 [00:00<00:00,  6.32it/s]
+Process 13 done.
+Process 13 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAAGACAGACCCTCCCAACGGGTTTCCGGACTTTTCACCTTGCAGCAGTCAGACGTCTAGCACACTAAGTGGGCGGCCTGACAGAGAGTAGGCTGAAGCTATCAGGAGCCAGACAAGGCGGCCTCTTGCAACCTTCAGGCTTGGTGCTGCGAATCACGCGAACCGGCCTCTTTCCAGTTGATGATGTGCTATCTGTTGATTAACGAGCTGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAAGACAGACCCTCCCAACGGGTTTCCGGACTTTTCACCTTGCAGCAGTCAGACGTCTAGCACACTAAGTGGGCGGCCTGACAGAGAGTAGGCTGAAGCTATCAGGAGCCAGACAAGGCGGCCTCTTGCAACCTTCAGGCTTGGTGCTGTGAATCACGCGAACCGGCCTCTTTCCAGTTGATGATGTGCTATCTGTTGATTAACGAGCTGAAGATAGAGC
+error counts = 1
+
+Process 14 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.30it/s]100%|██████████| 1/1 [00:00<00:00,  9.29it/s]
+Process 14 done.
+Process 14 is correct! ✅
+Process 15 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.45it/s]100%|██████████| 1/1 [00:00<00:00,  9.44it/s]
+Process 15 done.
+Process 15 is correct! ✅
+Process 16 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.61it/s]100%|██████████| 1/1 [00:00<00:00,  9.60it/s]
+Process 16 done.
+Process 16 is correct! ✅
+Process 17 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.08it/s]100%|██████████| 1/1 [00:00<00:00,  8.07it/s]
+Process 17 done.
+Process 17 is correct! ✅
+Process 18 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.57it/s]100%|██████████| 1/1 [00:00<00:00,  9.56it/s]
+Process 18 done.
+Process 18 is correct! ✅
+Process 19 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.45it/s]100%|██████████| 1/1 [00:00<00:00,  9.44it/s]
+Process 19 done.
+Process 19 is correct! ✅
+Process 20 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.18it/s]100%|██████████| 1/1 [00:00<00:00,  9.17it/s]
+Process 20 done.
+Process 20 is correct! ✅
+Process 21 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  6.95it/s]100%|██████████| 1/1 [00:00<00:00,  6.94it/s]
+Process 21 done.
+Process 21 is correct! ✅
+Process 22 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.32it/s]100%|██████████| 1/1 [00:00<00:00,  8.31it/s]
+Process 22 done.
+Process 22 is correct! ✅
+Process 23 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.55it/s]100%|██████████| 1/1 [00:00<00:00,  9.54it/s]
+Process 23 done.
+Process 23 is correct! ✅
+Process 24 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.59it/s]100%|██████████| 1/1 [00:00<00:00,  9.58it/s]
+Process 24 done.
+Process 24 is correct! ✅
+Process 25 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.36it/s]100%|██████████| 1/1 [00:00<00:00,  9.35it/s]
+Process 25 done.
+Process 25 is correct! ✅
+Process 26 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.41it/s]100%|██████████| 1/1 [00:00<00:00,  9.40it/s]
+Process 26 done.
+Process 26 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAGTAGTCAATCTGTTTACCGTTCTTAGGGATCCTCAGCTTGGTCGACAAGTTAAGCGACGATCATATGCATCGGGCCTGCCATCTTCAATGCTGGCTAGGGCTGTGGCGACTTTTGCAGGCCTTGAAAATCATAAAGCAAGGCACCGTTAGGTCCCTATCCATGGCCTCATACATTTCGTAGCAGCGACAGCGTCCGGTGCCTACATTGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAGTAGTCAATCTGTTTACCGTTCTTAGGGATCCTCAGCTTGGTCGACAAGTTAAGCGACGATCATATGCATCGGGCCTGCCATCTTCAATGCTGGCTAGGGCTGTGGCGACTTTTGCAGGCCTTGAAAATCATAGAGCAAGGCACCGTTAGGTCCCTATCCATGGCCTCATACATTTCGTAGCAGCGACAGCGTCCGGTGCCTACATTGAAGATAGAGC
+error counts = 1
+
+Process 27 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.54it/s]100%|██████████| 1/1 [00:00<00:00,  9.53it/s]
+Process 27 done.
+Process 27 is correct! ✅
+Process 28 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.40it/s]100%|██████████| 1/1 [00:00<00:00,  9.39it/s]
+Process 28 done.
+Process 28 is correct! ✅
+Process 29 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.47it/s]100%|██████████| 1/1 [00:00<00:00,  9.46it/s]
+Process 29 done.
+Process 29 is correct! ✅
+Process 30 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.45it/s]100%|██████████| 1/1 [00:00<00:00,  9.43it/s]
+Process 30 done.
+Process 30 is correct! ✅
+Process 31 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.18it/s]100%|██████████| 1/1 [00:00<00:00,  9.17it/s]
+Process 31 done.
+Process 31 is correct! ✅
+Process 32 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.82it/s]100%|██████████| 1/1 [00:00<00:00,  7.81it/s]
+Process 32 done.
+Process 32 is correct! ✅
+Process 33 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.28it/s]100%|██████████| 1/1 [00:00<00:00,  8.27it/s]
+Process 33 done.
+Process 33 is correct! ✅
+Process 34 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.45it/s]100%|██████████| 1/1 [00:00<00:00,  9.44it/s]
+Process 34 done.
+Process 34 is correct! ✅
+Process 35 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.67it/s]100%|██████████| 1/1 [00:00<00:00,  8.66it/s]
+Process 35 done.
+Process 35 is correct! ✅
+Process 36 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 18.03it/s]
+Process 36 done.
+Process 36 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCCGATATTGCTACCACCCATCCTACAACAGTTAAGGAAATCAAACTCAGCATGCACCTTGCAGACCTTACAGTGGGCTAAAAGCCGGCCTAAGTAGAAAAGTCTCTGGAACTCGCCATCCATTAATTACCGGCCTTACGTGACCGGACCCCTATTCATTTTCCCAGAGCTGCTCCGGCCTGCGATGCCGAGCTGAGGATTATGAAGCGCTGAGCCGCACTGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTACCACCCATCCTACAACAGTTAAGGAAATCAAACTCAGCATGCACCTTGCAGACCTTACAGTGGGCTAAAAGCCGGCCTAAGTAGAAAAGTCTCTGGAACTCGCCATCCATTAATTACCGGCCTTACGTGACCGGACCCCTATTCATTTTCCCAGAGCTGCTCCGGCCTGCGATGCCGAGCTGAGGATTATGAAGTGCTGAGCCGCACTGAAGATAGAGC
+error counts = 2
+
+Process 37 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.14it/s]100%|██████████| 1/1 [00:00<00:00,  9.13it/s]
+Process 37 done.
+Process 37 is correct! ✅
+Process 38 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.70it/s]100%|██████████| 1/1 [00:00<00:00,  7.69it/s]
+Process 38 done.
+Process 38 is correct! ✅
+Process 39 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.30it/s]100%|██████████| 1/1 [00:00<00:00,  8.29it/s]
+Process 39 done.
+Process 39 is correct! ✅
+Process 40 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.41it/s]100%|██████████| 1/1 [00:00<00:00,  8.40it/s]
+Process 40 done.
+Process 40 is correct! ✅
+Process 41 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.43it/s]100%|██████████| 1/1 [00:00<00:00,  9.42it/s]
+Process 41 done.
+Process 41 is correct! ✅
+Process 42 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.27it/s]100%|██████████| 1/1 [00:00<00:00,  8.26it/s]
+Process 42 done.
+Process 42 is correct! ✅
+Process 43 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.28it/s]100%|██████████| 1/1 [00:00<00:00,  9.27it/s]
+Process 43 done.
+Process 43 is correct! ✅
+Process 44 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.84it/s]100%|██████████| 1/1 [00:00<00:00,  8.83it/s]
+Process 44 done.
+Process 44 is correct! ✅
+Process 45 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.18it/s]100%|██████████| 1/1 [00:00<00:00,  8.17it/s]
+Process 45 done.
+Process 45 is correct! ✅
+Process 46 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.45it/s]100%|██████████| 1/1 [00:00<00:00,  8.44it/s]
+Process 46 done.
+Process 46 is correct! ✅
+Process 47 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.58it/s]100%|██████████| 1/1 [00:00<00:00,  8.57it/s]
+Process 47 done.
+Process 47 is correct! ✅
+Process 48 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.50it/s]100%|██████████| 1/1 [00:00<00:00,  8.49it/s]
+Process 48 done.
+Process 48 is correct! ✅
+Process 49 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.27it/s]100%|██████████| 1/1 [00:00<00:00,  8.26it/s]
+Process 49 done.
+Process 49 is correct! ✅
+Process 50 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.29it/s]100%|██████████| 1/1 [00:00<00:00,  9.28it/s]
+Process 50 done.
+Process 50 is correct! ✅
+Process 51 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.37it/s]100%|██████████| 1/1 [00:00<00:00,  8.36it/s]
+Process 51 done.
+Process 51 is correct! ✅
+Process 52 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.18it/s]100%|██████████| 1/1 [00:00<00:00,  8.17it/s]
+Process 52 done.
+Process 52 is correct! ✅
+Process 53 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.81it/s]100%|██████████| 1/1 [00:00<00:00,  7.80it/s]
+Process 53 done.
+Process 53 is correct! ✅
+Process 54 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.42it/s]100%|██████████| 1/1 [00:00<00:00,  8.41it/s]
+Process 54 done.
+Process 54 is correct! ✅
+Process 55 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.76it/s]100%|██████████| 1/1 [00:00<00:00,  8.75it/s]
+Process 55 done.
+Process 55 is correct! ✅
+Process 56 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.01it/s]100%|██████████| 1/1 [00:00<00:00,  8.00it/s]
+Process 56 done.
+Process 56 is correct! ✅
+Process 57 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.74it/s]100%|██████████| 1/1 [00:00<00:00,  8.73it/s]
+Process 57 done.
+Process 57 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAACAGGACCAGGCGAAGAAAGTTTCCACCCACTCTCACAGCACACTCTGCACACCTGACTCTCATCGGATATCCAAGGCGGGACATTTTAGGCCACACGTACCAGTGCTGCGAGTCTAAAAGGCCACATGGGAACGGTAACTTGCCGTGAGTCAAAAGGGCTATAAGGCTGCCTCAATCAAATACGACTACGCGCAGCAAAACGCCAGCGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAACAGGACCAGGCGAAGAAAGTTTCCACCCACTCTCACAGCACACTCTGCACACCTGACTCTCATCGGATATCCAAGGCGGGACATTTTAGGCCACACGTACCAGTGCTGCGAGTCTAAAAGGCCACATGGGAACGGTAACTTGCCGTGAGTCAAAAGGGCTATAAGGCTGCCTCAATCAAATACGACTAGGCGCAGCAAAACGCCAGCGAAGATAGAGC
+error counts = 1
+
+Process 58 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.25it/s]100%|██████████| 1/1 [00:00<00:00,  7.24it/s]
+Process 58 done.
+Process 58 is correct! ✅
+Process 59 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.40it/s]100%|██████████| 1/1 [00:00<00:00,  8.39it/s]
+Process 59 done.
+Process 59 is correct! ✅
+Process 60 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  5.93it/s]100%|██████████| 1/1 [00:00<00:00,  5.93it/s]
+Process 60 done.
+Process 60 is correct! ✅
+Process 61 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.15it/s]100%|██████████| 1/1 [00:00<00:00,  9.14it/s]
+Process 61 done.
+Process 61 is correct! ✅
+Process 62 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.36it/s]100%|██████████| 1/1 [00:00<00:00,  8.35it/s]
+Process 62 done.
+Process 62 is correct! ✅
+Process 63 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.94it/s]100%|██████████| 1/1 [00:00<00:00,  7.94it/s]
+Process 63 done.
+Process 63 is correct! ✅
+Process 64 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.64it/s]100%|██████████| 1/1 [00:00<00:00,  7.64it/s]
+Process 64 done.
+Process 64 is correct! ✅
+Process 65 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.24it/s]100%|██████████| 1/1 [00:00<00:00,  7.23it/s]
+Process 65 done.
+Process 65 is correct! ✅
+Process 66 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.70it/s]100%|██████████| 1/1 [00:00<00:00,  7.69it/s]
+Process 66 done.
+Process 66 is correct! ✅
+Process 67 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.86it/s]100%|██████████| 1/1 [00:00<00:00,  7.85it/s]
+Process 67 done.
+Process 67 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAAGACAGACCCTCCCAAGGCGAAGAAACCAGACTCGCTTAGCACTGGTAGCAGTAACTGTGGCTAGGCCACTAAAGGCGATGTTCGTACGGCTCCCTCTGAGGAACGAAGGCAGTAGAAAGGCTAATAGACCTGAGGCAACCAATCACAATTGAAAGGGCCCCAAGGCTTAGTACTTAGTACCATCCTGCCGGGGACTCAATCAGGCGGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAAGACAGACCCTCCCAAGGCGAAGAAACCAGACTCGCTTAGCACTGGTAGCAGTAACTGTGGCTAGGCCACTAAAGGCGATGTTCGTACGGCTCCCTCTGAGGAACGTAGGCAGTAGAAAGGCTAATAGACCTCAGGCAACCAATCACAATTGAAAGGGCCCAAAGGCTTAGTACTCGTACCATCCTTGCCGGGGACTCAATCAGGCGGAAGATAGAGC
+error counts = 12
+
+Process 68 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.33it/s]100%|██████████| 1/1 [00:00<00:00,  9.32it/s]
+Process 68 done.
+Process 68 is correct! ✅
+Process 69 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.32it/s]100%|██████████| 1/1 [00:00<00:00,  9.31it/s]
+Process 69 done.
+Process 69 is correct! ✅
+Process 70 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  5.32it/s]100%|██████████| 1/1 [00:00<00:00,  5.32it/s]
+Process 70 done.
+Process 70 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAATTTCATCCGCAAAGAAACCACCAAGTCCCACTCTACCTCTGCACCTGTAGAGCCTAGTGCAAACCCTCGATAAGGCTCGCCAATTTACTGCTACTCGCCCACAAGAGGAACAACGCAAGGCGTTACAGGTGGTAGCTTAGCTTGTTGACTCGAGGATCACCAAGGCGGTCGTTCATAGGCTAGCTTCCGACCAACCGACCATCCCGGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAATTTCATCCGCAAAGAAACCACCAAGTCCCACTCTACCTCTGCACCTGTAGAGCCTAGTGCAAACCCTCGATAAGGCTCGCCAATTTACTGCTACTCGCCCACAAGAGGAACAACGCAAGGCGTTACAGGTGGTAGCTTAGCTTGTTGAGTCGAGGATCACCAAGGCGGTCGTTCATAGGCTAGCTTCCGACCAACCGACCATCCTGGAAGATAGAGC
+error counts = 2
+
+Process 71 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.46it/s]100%|██████████| 1/1 [00:00<00:00,  8.45it/s]
+Process 71 done.
+Process 71 is correct! ✅
+Process 72 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.52it/s]100%|██████████| 1/1 [00:00<00:00,  9.51it/s]
+Process 72 done.
+Process 72 is correct! ✅
+Process 73 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.30it/s]100%|██████████| 1/1 [00:00<00:00,  8.29it/s]
+Process 73 done.
+Process 73 is correct! ✅
+Process 74 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.20it/s]100%|██████████| 1/1 [00:00<00:00,  8.19it/s]
+Process 74 done.
+Process 74 is correct! ✅
+Process 75 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.68it/s]100%|██████████| 1/1 [00:00<00:00,  7.67it/s]
+Process 75 done.
+Process 75 is correct! ✅
+Process 76 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.32it/s]100%|██████████| 1/1 [00:00<00:00,  7.32it/s]
+Process 76 done.
+Process 76 is correct! ✅
+Process 77 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.70it/s]100%|██████████| 1/1 [00:00<00:00,  7.70it/s]
+Process 77 done.
+Process 77 is correct! ✅
+Process 78 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.31it/s]100%|██████████| 1/1 [00:00<00:00,  9.30it/s]
+Process 78 done.
+Process 78 is correct! ✅
+Process 79 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.10it/s]100%|██████████| 1/1 [00:00<00:00,  8.09it/s]
+Process 79 done.
+Process 79 is correct! ✅
+Process 80 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  6.69it/s]100%|██████████| 1/1 [00:00<00:00,  6.69it/s]
+Process 80 done.
+Process 80 is correct! ✅
+Process 81 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.62it/s]100%|██████████| 1/1 [00:00<00:00,  8.61it/s]
+Process 81 done.
+Process 81 is correct! ✅
+Process 82 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.58it/s]100%|██████████| 1/1 [00:00<00:00,  9.57it/s]
+Process 82 done.
+Process 82 is correct! ✅
+Process 83 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.46it/s]100%|██████████| 1/1 [00:00<00:00,  7.45it/s]
+Process 83 done.
+Process 83 is correct! ✅
+Process 84 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.13it/s]100%|██████████| 1/1 [00:00<00:00,  9.12it/s]
+Process 84 done.
+Process 84 is correct! ✅
+Process 85 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.72it/s]100%|██████████| 1/1 [00:00<00:00,  7.71it/s]
+Process 85 done.
+Process 85 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAATCTTGTCCTCAGTACAAAGACAGACCCTCCCATCGCTTAGCACTGGTAGCAGTAACTGTGGCTAGGCCACTAAAGGCGATGTTCGTACGGCTCCCTTGGAGGTCTGAACTAACGTGTAAGGCCAGATAACCAGACAAGGGGCATGTGGTTGGGAGTGTTAGCAAGGCTGTATTTTAAGCGTGAAGTGTACAACCTAGGTATGAACTAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAATCTTGTCCTCAGTACAAAGACAGACCCTCCCATCGCTTAGCACTGGTAGCAGTAACTGTGGCTAGGCCACTAAAGGCGATGTTCGTACGGCTCCCTTGGAGGTCTGAACTAACGTGTAAGGCCAGATAACCAGACTGGGGTCATTTGGTTGGTAGTGTTAGAAAGGCTGTATTTTAGGCGTGAAGTGTACAACCTAGGTATGACCTAGAAGATAGAGC
+error counts = 8
+
+Process 86 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.45it/s]100%|██████████| 1/1 [00:00<00:00,  7.45it/s]
+Process 86 done.
+Process 86 is correct! ✅
+Process 87 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.51it/s]100%|██████████| 1/1 [00:00<00:00,  8.50it/s]
+Process 87 done.
+Process 87 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAATTTAACAGGCGAAAGAAAGACAGACCCTCCCATCGCTTAGCACTGGTAGCAGTAACTGTGGCTAGGCCACTAAAGGCGATGTTCGTACGGCTCCCTTGGAGGTCTGAACTAACGTGTAAGGCCATATGACGGGGCAAGGCGTGAGTCCTCACGACACCTCTCAAGGCTGACGTTTAAAACTAACCCGATCGCCGAGAAAACATATCGGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAATTTAACAGGCGAAAGAAAGACAGACCCTCCCATCGCTTAGCACTGGTAGCAGTAACTGTGGCTAGGCCACTAAAGGCGATGTTCGTACGGCTCCCTTGGAGGTCTGAACTAACGTGTAAGGCCATATGACGGGGCAAGGCGTGAGTCCTCACGACACCTCTCAAGGCTGACGTTTTAAACTAACCCGATCGCCGAGGAAACATATCGGAAGATAGAGC
+error counts = 2
+
+Process 88 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.43it/s]100%|██████████| 1/1 [00:00<00:00,  9.42it/s]
+Process 88 done.
+Process 88 is correct! ✅
+Process 89 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  6.69it/s]100%|██████████| 1/1 [00:00<00:00,  6.69it/s]
+Process 89 done.
+Process 89 is correct! ✅
+Process 90 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.43it/s]100%|██████████| 1/1 [00:00<00:00,  9.42it/s]
+Process 90 done.
+Process 90 is correct! ✅
+Process 91 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.20it/s]100%|██████████| 1/1 [00:00<00:00,  8.19it/s]
+Process 91 done.
+Process 91 is correct! ✅
+Process 92 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.13it/s]100%|██████████| 1/1 [00:00<00:00,  8.12it/s]
+Process 92 done.
+Process 92 is correct! ✅
+Process 93 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.27it/s]100%|██████████| 1/1 [00:00<00:00,  9.26it/s]
+Process 93 done.
+Process 93 is correct! ✅
+Process 94 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.46it/s]100%|██████████| 1/1 [00:00<00:00,  9.45it/s]
+Process 94 done.
+Process 94 is correct! ✅
+Process 95 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.12it/s]100%|██████████| 1/1 [00:00<00:00,  9.11it/s]
+Process 95 done.
+Process 95 is correct! ✅
+Process 96 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.60it/s]100%|██████████| 1/1 [00:00<00:00,  8.59it/s]
+Process 96 done.
+Process 96 is correct! ✅
+Process 97 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.72it/s]100%|██████████| 1/1 [00:00<00:00,  9.71it/s]
+Process 97 done.
+Process 97 is correct! ✅
+Process 98 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.07it/s]100%|██████████| 1/1 [00:00<00:00,  9.06it/s]
+Process 98 done.
+Process 98 is correct! ✅
+Process 99 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.44it/s]100%|██████████| 1/1 [00:00<00:00,  8.43it/s]
+Process 99 done.
+Process 99 is correct! ✅
+Process 100 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.22it/s]100%|██████████| 1/1 [00:00<00:00,  9.21it/s]
+Process 100 done.
+Process 100 is correct! ✅
+Process 101 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.31it/s]100%|██████████| 1/1 [00:00<00:00,  8.30it/s]
+Process 101 done.
+Process 101 is correct! ✅
+Process 102 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.11it/s]100%|██████████| 1/1 [00:00<00:00,  8.10it/s]
+Process 102 done.
+Process 102 is correct! ✅
+Process 103 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.49it/s]100%|██████████| 1/1 [00:00<00:00,  8.48it/s]
+Process 103 done.
+Process 103 is correct! ✅
+Process 104 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.69it/s]100%|██████████| 1/1 [00:00<00:00,  7.69it/s]
+Process 104 done.
+Process 104 is correct! ✅
+Process 105 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.19it/s]100%|██████████| 1/1 [00:00<00:00,  7.18it/s]
+Process 105 done.
+Process 105 is correct! ✅
+Process 106 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.18it/s]100%|██████████| 1/1 [00:00<00:00,  9.17it/s]
+Process 106 done.
+Process 106 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAGTCGCTCACGGATGACTGTCGACGGAAAGATCATCGCTTAGCACTGGTAGCAGTAACTGTGGCTAGGCCACTAAAGGCGATGTTCGTACGGCTCCCTTGGAGGTCTGAACTAACGTGTAAGGCCATATGACGGGGCAAGGCGTGAGTCCTCACGACACCTCTCAAGGCTGACGTTTAGGCAAAACACCTCAACGTGATTGGTCTAGTTGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAGTCGCTCACGGATGACTGTCGACGGAAAGATCATCGCTTAGCACTGGTAGCAGTAACTGTGGCTAGGCCACTAAAGGCGATGTTCGTACGGCTCCCTTGGAGGTCTGAACTAACGTGTAAGGCCATATGACGGGGCAAGGCGTGAGTCCTCACGACGAGTATTAAGGCTTGATTGCCCATAAAATCCTTCAGCAATATTGATGTAGCTGAAGATAGAGC
+error counts = 25
+
+Process 107 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.70it/s]100%|██████████| 1/1 [00:00<00:00,  9.69it/s]
+Process 107 done.
+Process 107 is correct! ✅
+Process 108 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.24it/s]100%|██████████| 1/1 [00:00<00:00,  8.23it/s]
+Process 108 done.
+Process 108 is correct! ✅
+Process 109 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.48it/s]100%|██████████| 1/1 [00:00<00:00,  9.47it/s]
+Process 109 done.
+Process 109 is correct! ✅
+Process 110 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.39it/s]100%|██████████| 1/1 [00:00<00:00,  9.38it/s]
+Process 110 done.
+Process 110 is correct! ✅
+Process 111 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.37it/s]100%|██████████| 1/1 [00:00<00:00,  8.36it/s]
+Process 111 done.
+Process 111 is correct! ✅
+Process 112 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.45it/s]100%|██████████| 1/1 [00:00<00:00,  8.44it/s]
+Process 112 done.
+Process 112 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTATTGCATTACCCTCCCACCCACGTTCACCAACTATCGCTTAGCACTGGTAGCAGTAACTGTGGCTAGGCCACTAAAGGCGATGTTCGTACGGCTCCCTTGGAGGTCTGAACTAACGTGTAAGGCCATATGACGGGGCAAGTTCACTGTAGATAGGCATGATAACAAGGCTGCACAGGAACCCGTTGAATTCCAGGTACCTCACAGAGCAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTATTGCATTACCCTCCCACCCACGTTCACCAACTATCGCTTAGCACTGGTAGCAGTAACTGTGGCTAGGCCACTAAAGGCGATGTTCGTACGGCTCCCTTGGAGGTCTGAACTAACGTGTAAGGCCATATGACGGGGCAAGTTCACTGTAGATAGGCATGATAACAAGGCTGCACAGGAACCCGTTGAATTCCAGGGACCCTCACAGGTGGAAGATAGAGC
+error counts = 10
+
+Process 113 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.44it/s]100%|██████████| 1/1 [00:00<00:00,  9.43it/s]
+Process 113 done.
+Process 113 is correct! ✅
+Process 114 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.45it/s]100%|██████████| 1/1 [00:00<00:00,  9.44it/s]
+Process 114 done.
+Process 114 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTATTGCATTACCCTCCCACCCTAAAGAAAGTTCAATCATGGCTTCACAGTTGTCATCAGACGAACGCTTGCCAGTAAGGCTTGCGTCGGCCAGCACAACATTGGAAGGGCATTTACAATCAAGGCGGTCACGTAGCCGAAACACGCCTTCCAGAAAACGACAGGTAAGGCTACAATTGTCCAACCTGAGATCGCGGCCGGACCTCGCAAAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTATTGCATTACCCTCCCACCCTAAAGAAAGTTCAATCATGGCTTCACAGTTGTCATCAGACGAACGCTTGCCAGTAAGGCTTGCGTCGGCCAGCACAACATTGGAAGGGCATTTACAATCAAGGCGGTCACGTAGCCGAAACACGCCTTCCAGAAAACGACAGGTAAGGCTACAATTGTCCAACCTGAGATCGTGGCCGGACCTCGCAAGGAAGATAGAGC
+error counts = 2
+
+Process 115 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 10.84it/s]
+Process 115 done.
+Process 115 is correct! ✅
+Process 116 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.43it/s]100%|██████████| 1/1 [00:00<00:00,  9.42it/s]
+Process 116 done.
+Process 116 is correct! ✅
+Process 117 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.65it/s]100%|██████████| 1/1 [00:00<00:00,  8.64it/s]
+Process 117 done.
+Process 117 is correct! ✅
+Process 118 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.44it/s]100%|██████████| 1/1 [00:00<00:00,  8.43it/s]
+Process 118 done.
+Process 118 is correct! ✅
+Process 119 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.40it/s]100%|██████████| 1/1 [00:00<00:00,  8.39it/s]
+Process 119 done.
+Process 119 is correct! ✅
+Process 120 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.19it/s]100%|██████████| 1/1 [00:00<00:00,  8.18it/s]
+Process 120 done.
+Process 120 is correct! ✅
+Process 121 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.58it/s]100%|██████████| 1/1 [00:00<00:00,  9.57it/s]
+Process 121 done.
+Process 121 is correct! ✅
+Process 122 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.45it/s]100%|██████████| 1/1 [00:00<00:00,  9.44it/s]
+Process 122 done.
+Process 122 is correct! ✅
+Process 123 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  6.64it/s]100%|██████████| 1/1 [00:00<00:00,  6.64it/s]
+Process 123 done.
+Process 123 is correct! ✅
+Process 124 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.00it/s]100%|██████████| 1/1 [00:00<00:00,  8.99it/s]
+Process 124 done.
+Process 124 is correct! ✅
+Process 125 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.55it/s]100%|██████████| 1/1 [00:00<00:00,  8.54it/s]
+Process 125 done.
+Process 125 is correct! ✅
+Process 126 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.46it/s]100%|██████████| 1/1 [00:00<00:00,  8.45it/s]
+Process 126 done.
+Process 126 is correct! ✅
+Process 127 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.06it/s]100%|██████████| 1/1 [00:00<00:00,  9.05it/s]
+Process 127 done.
+Process 127 is correct! ✅
+Process 128 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.50it/s]100%|██████████| 1/1 [00:00<00:00,  8.49it/s]
+Process 128 done.
+Process 128 is correct! ✅
+Process 129 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 20.96it/s]
+Process 129 done.
+Process 129 not correct. ❌
+Normal strand assembly result is 
+TTTCTATTGGTGCTGATATTGCTTCCTACTAACCGTTCTTAAGTAGTCACCAGCTTTTCATGCCACAAGGGTTTGTTTCTGACCACCTATTGAGCGGAAGGCTTGCGTGGCGATCGCGACTCTTAGTGGAGAATAGGAGTCAAAGGCTAGCCTAATGAAAACCTGATATTACACGGTGGCGACCTTGAAGGCATCGAAAACGCCAGGTGCAGCCCTTTAGGTGCCGAGCGATGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTTCCTACTAACCGTTCTTAAGTAGTCACCAGCTTTTCATGCCACAAGGGTTTGTTTCTGACCACCTATTGAGCGGAAGGCTTGCGTGGCGATCGCGACTCTTAGTGGAGAATAGGAGTCAAAGGCTAGCCTAATGAAAACCTGATATTACACGGTGGCGACCTTGAAGGCATCGAAAACGCCAGGTGCAGCCCTTTAGGTGCCGAGCGATGAAGATAGAGC
+error counts = 1
+
+Process 130 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.27it/s]100%|██████████| 1/1 [00:00<00:00,  9.26it/s]
+Process 130 done.
+Process 130 is correct! ✅
+Process 131 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.33it/s]100%|██████████| 1/1 [00:00<00:00,  9.32it/s]
+Process 131 done.
+Process 131 is correct! ✅
+Process 132 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.38it/s]100%|██████████| 1/1 [00:00<00:00,  9.37it/s]
+Process 132 done.
+Process 132 is correct! ✅
+Process 133 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.37it/s]100%|██████████| 1/1 [00:00<00:00,  9.36it/s]
+Process 133 done.
+Process 133 is correct! ✅
+Process 134 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.03it/s]100%|██████████| 1/1 [00:00<00:00,  9.02it/s]
+Process 134 done.
+Process 134 is correct! ✅
+Process 135 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.27it/s]100%|██████████| 1/1 [00:00<00:00,  9.26it/s]
+Process 135 done.
+Process 135 is correct! ✅
+Process 136 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.63it/s]100%|██████████| 1/1 [00:00<00:00,  9.61it/s]
+Process 136 done.
+Process 136 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAAGAAACAACGGATGAACCCTCCCACCCTAAAGTCAACCCATCGCACTTTCCTTTTCTGAGACGGTCGTCAGAAAGGCATGCAGGCAAAGCATAGTAGACTAAAGATGCTGCCTTCCCAAGGCCAGGCCCGCATGAGGATATGCCAGAAGTACTCCTAAGGTAAAGGCTAAAGCCCCACTATACGTTCAGTCGATTAGTGTAGTCGAAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAAGAAACAACGGATGAACCCTCCCACCCTAAAGTCAACCCATCGCACTTTCCTTTTCTGAGACGGTCGTCAGAAAGGCATGCAGGCAAAGCATAGTAGACTAAAGATGCTGCCTTCCCAAGGCCAGGCCCGCATGAGGATATGCCAGAAGTACTCCTAAGGTAAAGGCTAAAGCCCCACTATACGTTCAGTCGATTAGTGTAGTCGAGGAAGATAGAGC
+error counts = 1
+
+Process 137 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.60it/s]100%|██████████| 1/1 [00:00<00:00,  9.59it/s]
+Process 137 done.
+Process 137 is correct! ✅
+Process 138 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.48it/s]100%|██████████| 1/1 [00:00<00:00,  9.47it/s]
+Process 138 done.
+Process 138 is correct! ✅
+Process 139 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.51it/s]100%|██████████| 1/1 [00:00<00:00,  9.50it/s]
+Process 139 done.
+Process 139 is correct! ✅
+Process 140 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.41it/s]100%|██████████| 1/1 [00:00<00:00,  9.40it/s]
+Process 140 done.
+Process 140 is correct! ✅
+Process 141 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.54it/s]100%|██████████| 1/1 [00:00<00:00,  9.53it/s]
+Process 141 done.
+Process 141 is correct! ✅
+Process 142 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.56it/s]100%|██████████| 1/1 [00:00<00:00,  8.55it/s]
+Process 142 done.
+Process 142 is correct! ✅
+Process 143 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.82it/s]100%|██████████| 1/1 [00:00<00:00,  8.81it/s]
+Process 143 done.
+Process 143 is correct! ✅
+Process 144 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.29it/s]100%|██████████| 1/1 [00:00<00:00,  9.28it/s]
+Process 144 done.
+Process 144 is correct! ✅
+Process 145 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.31it/s]100%|██████████| 1/1 [00:00<00:00,  9.30it/s]
+Process 145 done.
+Process 145 is correct! ✅
+Process 146 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.28it/s]100%|██████████| 1/1 [00:00<00:00,  9.27it/s]
+Process 146 done.
+Process 146 is correct! ✅
+Process 147 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.46it/s]100%|██████████| 1/1 [00:00<00:00,  9.45it/s]
+Process 147 done.
+Process 147 is correct! ✅
+Process 148 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.46it/s]100%|██████████| 1/1 [00:00<00:00,  7.45it/s]
+Process 148 done.
+Process 148 is correct! ✅
+Process 149 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.39it/s]100%|██████████| 1/1 [00:00<00:00,  8.38it/s]
+Process 149 done.
+Process 149 is correct! ✅
+Process 150 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.51it/s]100%|██████████| 1/1 [00:00<00:00,  8.50it/s]
+Process 150 done.
+Process 150 is correct! ✅
+Process 151 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.95it/s]100%|██████████| 1/1 [00:00<00:00,  8.94it/s]
+Process 151 done.
+Process 151 is correct! ✅
+Process 152 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.60it/s]100%|██████████| 1/1 [00:00<00:00,  9.59it/s]
+Process 152 done.
+Process 152 is correct! ✅
+Process 153 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.72it/s]100%|██████████| 1/1 [00:00<00:00,  8.71it/s]
+Process 153 done.
+Process 153 is correct! ✅
+Process 154 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.89it/s]100%|██████████| 1/1 [00:00<00:00,  9.88it/s]
+Process 154 done.
+Process 154 is correct! ✅
+Process 155 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.99it/s]100%|██████████| 1/1 [00:00<00:00,  7.98it/s]
+Process 155 done.
+Process 155 is correct! ✅
+Process 156 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.87it/s]100%|██████████| 1/1 [00:00<00:00,  7.86it/s]
+Process 156 done.
+Process 156 is correct! ✅
+Process 157 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.35it/s]100%|██████████| 1/1 [00:00<00:00,  9.34it/s]
+Process 157 done.
+Process 157 is correct! ✅
+Process 158 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.59it/s]100%|██████████| 1/1 [00:00<00:00,  9.57it/s]
+Process 158 done.
+Process 158 is correct! ✅
+Process 159 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.62it/s]100%|██████████| 1/1 [00:00<00:00,  7.61it/s]
+Process 159 done.
+Process 159 is correct! ✅
+Process 160 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.29it/s]100%|██████████| 1/1 [00:00<00:00,  9.28it/s]
+Process 160 done.
+Process 160 is correct! ✅
+Process 161 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.71it/s]100%|██████████| 1/1 [00:00<00:00,  9.70it/s]
+Process 161 done.
+Process 161 is correct! ✅
+Process 162 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.57it/s]100%|██████████| 1/1 [00:00<00:00,  9.56it/s]
+Process 162 done.
+Process 162 is correct! ✅
+Process 163 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.83it/s]100%|██████████| 1/1 [00:00<00:00,  8.82it/s]
+Process 163 done.
+Process 163 is correct! ✅
+Process 164 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.43it/s]100%|██████████| 1/1 [00:00<00:00,  8.42it/s]
+Process 164 done.
+Process 164 is correct! ✅
+Process 165 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.28it/s]100%|██████████| 1/1 [00:00<00:00,  8.27it/s]
+Process 165 done.
+Process 165 is correct! ✅
+Process 166 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.38it/s]100%|██████████| 1/1 [00:00<00:00,  8.38it/s]
+Process 166 done.
+Process 166 is correct! ✅
+Process 167 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.43it/s]100%|██████████| 1/1 [00:00<00:00,  9.42it/s]
+Process 167 done.
+Process 167 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTACTGTTACCAACTACTCAACTCGTTCCCACGTTCTCAGCACACTATGGGTTGATCATGGGCATATTCGAGCTCCAAGGCTGAATAGCTACGCTACATCACAGAATGAGCATGTCTAGCGAAGGCCACCTTGAAACGTTCGAGCATTGCTTCGAAATGTGTACCGAAGGCTGGCTAGATCTCACGGACCGACATTCCGTGGAGGAGTAAAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTACTGTTACCAACTACTCAACTCGTTCCCACGTTCTCAGCACACTATGGGTTGATCATGGGCATATTCGAGCTCCAAGGCTGAATAGCTACGCTACATCACAGAATGAGCATGTCTAGCGAAGGCCACCTTGAAACGTTCGAGCATTGCTTCGAAATGTGTACCGAAGGCCGGCTAGATCTCACGGACCGACATTCCGTGGAGGAGTAAAGAAGATAGAGC
+error counts = 1
+
+Process 168 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.19it/s]100%|██████████| 1/1 [00:00<00:00,  9.18it/s]
+Process 168 done.
+Process 168 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTACTGTTACCAACTACTCAAACTCAACGTTCCCACTCCAAGGTTCGTACACCAATTGAGAGGAACTGGTCGGGGTAAGGCTAGGCAATGTGGGCAGGAGTCACTCCGATCGCATGGATATGAAGGCAACATCGTCGCAATAGCCCGTGCAATTGAACGACCCTCCTAAGGCACCGATGTTTTGGGCTGTCCTGAGAGCCTTGCGGGTATAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTACTGTTACCAACTACTCAAACTCAACGTTCCCACTCCAAGGTTCGTACACCAATTGAGAGGAACTGGTCGGGGTAAGGCTAGGCAATGTGGGCAGGAGTCACTCCGATCGCATGATATGAAGGCAACATCGTCGCAATAGCCCGTGCAATTGAACGACCCTCCTAAGGCACCGATGTTTTGGGCTGTCCTGTAGAGCCTTGCGGGTATAGAAGATAGAGC
+error counts = 57
+
+Process 169 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.34it/s]100%|██████████| 1/1 [00:00<00:00,  9.33it/s]
+Process 169 done.
+Process 169 is correct! ✅
+Process 170 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.07it/s]100%|██████████| 1/1 [00:00<00:00,  9.07it/s]
+Process 170 done.
+Process 170 is correct! ✅
+Process 171 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.16it/s]100%|██████████| 1/1 [00:00<00:00,  9.15it/s]
+Process 171 done.
+Process 171 is correct! ✅
+Process 172 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.54it/s]100%|██████████| 1/1 [00:00<00:00,  9.53it/s]
+Process 172 done.
+Process 172 is correct! ✅
+Process 173 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.35it/s]100%|██████████| 1/1 [00:00<00:00,  9.34it/s]
+Process 173 done.
+Process 173 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTATTTCAAAGATTGCACTACAGACTCAACCGTCCATCCCTTACAGGCTTGTTTCCTATCAGGGTGCTTAATGTGTAAGGCCGCGATGCACGACGTATTATTGATGCAGTGCTCTCAAGGGAAGGCGTTAGTTGCATAAGTGGCACTATGTAAGTCGTAGGAGGCTAAGGCAAGCTCCATATACATTCCAGCCGATCCTACTTGGGAAAAAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTATTTCAAAGATTGCACTACAGACTCAACCGTCCATCCCTTACAGGCTTGTTTCCTATCAGGGTGCTTAATGTGTAAGGCCGCGATGCACGACGTATTATTGATGCAGTGCTCTCAAGGGAAGGCGTTAGTTGCATAAGTGGCACTATGTAAGTCGTAGGAGGCTAAGGCAAGCTCCATATACATTCCAGCCGATCCTACTTGGGAAAAGGAAGATAGAGC
+error counts = 1
+
+Process 174 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.53it/s]100%|██████████| 1/1 [00:00<00:00,  9.52it/s]
+Process 174 done.
+Process 174 is correct! ✅
+Process 175 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.57it/s]100%|██████████| 1/1 [00:00<00:00,  9.56it/s]
+Process 175 done.
+Process 175 is correct! ✅
+Process 176 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.57it/s]100%|██████████| 1/1 [00:00<00:00,  8.56it/s]
+Process 176 done.
+Process 176 is correct! ✅
+Process 177 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.37it/s]100%|██████████| 1/1 [00:00<00:00,  8.37it/s]
+Process 177 done.
+Process 177 is correct! ✅
+Process 178 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.01it/s]100%|██████████| 1/1 [00:00<00:00,  9.00it/s]
+Process 178 done.
+Process 178 is correct! ✅
+Process 179 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.34it/s]100%|██████████| 1/1 [00:00<00:00,  9.33it/s]
+Process 179 done.
+Process 179 is correct! ✅
+Process 180 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.30it/s]100%|██████████| 1/1 [00:00<00:00,  9.29it/s]
+Process 180 done.
+Process 180 is correct! ✅
+Process 181 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.13it/s]100%|██████████| 1/1 [00:00<00:00,  8.12it/s]
+Process 181 done.
+Process 181 is correct! ✅
+Process 182 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.37it/s]100%|██████████| 1/1 [00:00<00:00,  8.36it/s]
+Process 182 done.
+Process 182 is correct! ✅
+Process 183 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.51it/s]100%|██████████| 1/1 [00:00<00:00,  9.50it/s]
+Process 183 done.
+Process 183 is correct! ✅
+Process 184 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.33it/s]100%|██████████| 1/1 [00:00<00:00,  8.32it/s]
+Process 184 done.
+Process 184 is correct! ✅
+Process 185 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.03it/s]100%|██████████| 1/1 [00:00<00:00,  8.02it/s]
+Process 185 done.
+Process 185 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAAGACAGACGTTTCAGGTTTGCTTCCCACGTTCTCGCTACTCTGTAACTGCGACTTACGATTGTGCGATGTACAAGGCTTTCACGCGGGGATTATAGGGATTACAGGCCACCCCGGTCAAGGCTCGCCTCCGTGCAGAAGAGAAGTCAGCCGAAGTACGTGGAAAGGCTCATCGCAATCTTACTACCCTGCGACAATACGATTAGCGTGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAAGACAGACGTTTCAGGTTTGCTTCCCACGTTCTCGCTACTCTGTAACTGCGACTTACGATTGTGCGATGTACAAGGCTTTCACGCGGGGATTATAGGGATTACAGGCCACCCCGGTCAAGGCTCGCCTCCGTGCAGAAGAGAAGTCAGCCGAAGTACGTGGAAAGGCTCATCGCAATCTTACTACCCTGCGACAATACGATTAGTGCGAAGATAGAGC
+error counts = 2
+
+Process 186 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.67it/s]100%|██████████| 1/1 [00:00<00:00,  9.66it/s]
+Process 186 done.
+Process 186 is correct! ✅
+Process 187 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.24it/s]100%|██████████| 1/1 [00:00<00:00,  9.23it/s]
+Process 187 done.
+Process 187 is correct! ✅
+Process 188 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.59it/s]100%|██████████| 1/1 [00:00<00:00,  9.58it/s]
+Process 188 done.
+Process 188 is correct! ✅
+Process 189 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.54it/s]100%|██████████| 1/1 [00:00<00:00,  9.53it/s]
+Process 189 done.
+Process 189 is correct! ✅
+Process 190 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.07it/s]100%|██████████| 1/1 [00:00<00:00,  9.06it/s]
+Process 190 done.
+Process 190 is correct! ✅
+Process 191 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  6.59it/s]100%|██████████| 1/1 [00:00<00:00,  6.58it/s]
+Process 191 done.
+Process 191 is correct! ✅
+Process 192 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.44it/s]100%|██████████| 1/1 [00:00<00:00,  9.43it/s]
+Process 192 done.
+Process 192 is correct! ✅
+Process 193 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.67it/s]100%|██████████| 1/1 [00:00<00:00,  9.66it/s]
+Process 193 done.
+Process 193 is correct! ✅
+Process 194 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.07it/s]100%|██████████| 1/1 [00:00<00:00,  8.07it/s]
+Process 194 done.
+Process 194 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAATTTAACATCGGGATTAACTCACCCACCAGATCTCACAGTCGTTTGTCCTCACGAACAAGCGATGGTATTACAAAGGCCCAACTTCACTGCCGCAGACTATACTTTCAGAACTAGAGGAAGGCTACGGCCGTTGCTCATGGCTGCTGAAGGCAATCTAGAATGAAGGCGCCCGTTGCGCGTGTATAGAGTGCACCGTCTCTTATCCATGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAATTTAACATCGGGATTAACTCACCCACCAGATCTCACAGTCGTTTGTCCTCACGAACAAGCGATGGTATTACAAAGGCCCAACTTCACTGCCGCAGACTATACTTTCAGAACTAGAGGAAGGCTACGGCCGTTGCTCATGGCTGCTGAAGGCAATCTAGAATGAAGGCGCCCGTTGCGCGTGTATAGAGCGCACCGTCTCTTATCCATGAAGATAGAGC
+error counts = 1
+
+Process 195 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.15it/s]100%|██████████| 1/1 [00:00<00:00,  8.14it/s]
+Process 195 done.
+Process 195 is correct! ✅
+Process 196 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  6.48it/s]100%|██████████| 1/1 [00:00<00:00,  6.47it/s]
+Process 196 done.
+Process 196 is correct! ✅
+Process 197 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 13.32it/s]
+Process 197 done.
+Process 197 is correct! ✅
+Process 198 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.46it/s]100%|██████████| 1/1 [00:00<00:00,  8.46it/s]
+Process 198 done.
+Process 198 is correct! ✅
+Process 199 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.29it/s]100%|██████████| 1/1 [00:00<00:00,  9.28it/s]
+Process 199 done.
+Process 199 is correct! ✅
+Process 200 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.62it/s]100%|██████████| 1/1 [00:00<00:00,  9.61it/s]
+Process 200 done.
+Process 200 is correct! ✅
+Process 201 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.27it/s]100%|██████████| 1/1 [00:00<00:00,  9.26it/s]
+Process 201 done.
+Process 201 is correct! ✅
+Process 202 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.53it/s]100%|██████████| 1/1 [00:00<00:00,  8.52it/s]
+Process 202 done.
+Process 202 is correct! ✅
+Process 203 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.66it/s]100%|██████████| 1/1 [00:00<00:00,  8.65it/s]
+Process 203 done.
+Process 203 is correct! ✅
+Process 204 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.07it/s]100%|██████████| 1/1 [00:00<00:00,  9.06it/s]
+Process 204 done.
+Process 204 is correct! ✅
+Process 205 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.65it/s]100%|██████████| 1/1 [00:00<00:00,  9.64it/s]
+Process 205 done.
+Process 205 is correct! ✅
+Process 206 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.30it/s]100%|██████████| 1/1 [00:00<00:00,  9.29it/s]
+Process 206 done.
+Process 206 is correct! ✅
+Process 207 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.23it/s]100%|██████████| 1/1 [00:00<00:00,  9.22it/s]
+Process 207 done.
+Process 207 is correct! ✅
+Process 208 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.24it/s]100%|██████████| 1/1 [00:00<00:00,  8.23it/s]
+Process 208 done.
+Process 208 is correct! ✅
+Process 209 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.53it/s]100%|██████████| 1/1 [00:00<00:00,  9.52it/s]
+Process 209 done.
+Process 209 is correct! ✅
+Process 210 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.34it/s]100%|██████████| 1/1 [00:00<00:00,  8.33it/s]
+Process 210 done.
+Process 210 is correct! ✅
+Process 211 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.33it/s]100%|██████████| 1/1 [00:00<00:00,  8.32it/s]
+Process 211 done.
+Process 211 is correct! ✅
+Process 212 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.30it/s]100%|██████████| 1/1 [00:00<00:00,  9.29it/s]
+Process 212 done.
+Process 212 is correct! ✅
+Process 213 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 11.73it/s]
+Process 213 done.
+Process 213 is correct! ✅
+Process 214 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.31it/s]100%|██████████| 1/1 [00:00<00:00,  9.30it/s]
+Process 214 done.
+Process 214 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTACTCAGGCGTTTCCGCAAAGAAAGGATCACGGACTTTTCTGCTTCACATCCAGAGCAAACAGTAGACCCTACCACGAAAGGCCTTACACAAAGTTTCGGTCACCACGCGGGTATCTTGGTAGAAGGCTGTCTTGTTATATATTCCATACCAGATGCTAACCCAGTTAAAGGCACCATGGGAAACCGGTTGGCGCGGTGACTCCTCTGTTCTAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTCAGGCGTTTCCGCAAAGAAAGGATCACGGACTTTTCTGCTTCACATCCAGAGCAAACAGTAGACCCTACCACGAAAGGCCTTACACAAAGTTTCGGTCACCACGCGGGTATCTTGGTAGAAGGCTGTCTTGTTATATATTCCATACCAGATGCTAACCCAGTTAAAGGCACCATGGGAAACCGGTTGGCGCGGTGACTCCTCTGTTCTAGAAGATAGAGC
+error counts = 1
+
+Process 215 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.63it/s]100%|██████████| 1/1 [00:00<00:00,  9.62it/s]
+Process 215 done.
+Process 215 is correct! ✅
+Process 216 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.41it/s]100%|██████████| 1/1 [00:00<00:00,  8.40it/s]
+Process 216 done.
+Process 216 is correct! ✅
+Process 217 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.42it/s]100%|██████████| 1/1 [00:00<00:00,  8.42it/s]
+Process 217 done.
+Process 217 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTGGACATTTACGGGTTTCAACCCTAAAGGGAAGATTCATGGTCGTCTGTGAACTCGTCAACCCACTTCTACAGAAAAGGCAACCCACTGTGAAAATGTGCGGCATCGGTGCACGCCCGCTAAGGCAGGGTACTGAAGCACTGACTTTGTTTACAATCAGTGCCAAAGGCCGGACAAACAGTCTACATTAAACCGGGACGGCCGCCCTACAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTGGACATTTACGGGTTTCAACCCTAAAGGGAAGATTCATGGTCGTCTGTGAACTCGTCAACCCACTTCTACAGAAAAGGCAACCCACTGTGAAAATGTGCGGCATCGGTGCACGCCCGCTAAGGCAGGGGTACTGAAGCACTGACTTTGTTTACAATCAGTGCCAAAGGCCGGACAAACAGTCTACATTAAACCGGACGGCCGCCCTACAGAAGATAGAGC
+error counts = 47
+
+Process 218 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.46it/s]100%|██████████| 1/1 [00:00<00:00,  9.45it/s]
+Process 218 done.
+Process 218 is correct! ✅
+Process 219 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.19it/s]100%|██████████| 1/1 [00:00<00:00,  9.18it/s]
+Process 219 done.
+Process 219 is correct! ✅
+Process 220 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 26.27it/s]
+Process 220 done.
+Process 220 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGAGATAACTAAAAGGAACAGCCCAAGAAAGACCTTAACGCACAAGCAGCTAAGGACTACAAGTGGCCAGACCAAATGCAATGCAAGCTAGGACGCAGCCTACGTGATCGGAACACCGCGTAAATAGGAACGCAGCCGCTACCACAACCGCACCAGATCCGTCCGAAGTAACAAAGGCACGATGTTAAAGACAAATCACTCGACCATATGAAGAAAAGCGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTTCAATAACCACCCACTCAATGCCTTGACGGATGATCAGCTAGGAGTACCGTTGGCAAAAGGTAAATGCGATGCGAAGGCTAGGTGGCATCTTACGTAGTGGGACTACCGCGTAAATAGTAAGGCAGCTGCTACTCCAACTGCACCAGATCCGTCCGAAGTAACAAAGGCACGATGTTAAAGTCAATTCGCTTACCTTATTAAGATAAGCGAAGATAGAGC
+error counts = 139
+
+Process 221 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.73it/s]100%|██████████| 1/1 [00:00<00:00,  8.72it/s]
+Process 221 done.
+Process 221 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTTCAATAACCACCCACTCACGGATGACATTGCACTTCAGCAGTACGATAAAGCGGCATCATCATGAAGGCCAGGAAAGGCGGAGCACACTAGTCTGCAAGCTGCCAGTATTGGTACCTTAAAGGCTGGTTGCCGCGTCGTAGAGATTATTCTACGTTGAGTTGAGAAGGCTGTTCGCAGCAGTTATTGATGAAGGACGATAACCCTTTCCGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTTCAATAACCACCCACTCACGGATGACATTGCACTTCAGCAGTACGATAGAGCGGCATCATCATGAAGGCCAGGAAAGGCGGAGCACACTAGTCTGCAAGCTGCCAGTATTGGTACCTTAAAGGCTGGTTGCCGCGTCGTAGAGATTATTCTACGTTGAGTTGAGAAGGCTGTTCGCAGCAGTTATTGATGAAGGACGATAACCCTTTCCGAAGATAGAGC
+error counts = 1
+
+Process 222 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.73it/s]100%|██████████| 1/1 [00:00<00:00,  8.72it/s]
+Process 222 done.
+Process 222 is correct! ✅
+Process 223 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.33it/s]100%|██████████| 1/1 [00:00<00:00,  9.32it/s]
+Process 223 done.
+Process 223 is correct! ✅
+Process 224 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.29it/s]100%|██████████| 1/1 [00:00<00:00,  9.28it/s]
+Process 224 done.
+Process 224 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCCTCCTACTAAGGCGAAAGAAAGAAAGGACCGAAAGTCAGTGAGTGGAGGAAGTTTCGCTTGGAGACTGATCCCTCAAGGCCCAAAAGCACACGAGTATAGCGCCCGGTCTTGAGTAGTTCAAGGCATACACAGGGAGAGCTTCCTATCATTACGGGCCTGATAACAAGGCTCAGACCTGGGCGTATTGGCGGTCCCCGGCCGTGAGTAATGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTTCCTACTAAGGCGAAAGAAAGAAAGGACCGAAAGTCAGTGAGTGGAGGAAGTTTCGCTTGGAGACTGATCCCTCAAGGCCCAAAAGCACACGAGTATAGCGCCCGGTCTTGAGTAGTTCAAGGCATACACAGGGAGAGCTTCCTATCATTACGGGCCTGATAACAAGGCTCAGACCTGGGCGTATTGGCGGTCCCCGGCCGTGAGTAATGAAGATAGAGC
+error counts = 1
+
+Process 225 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.58it/s]100%|██████████| 1/1 [00:00<00:00,  8.58it/s]
+Process 225 done.
+Process 225 is correct! ✅
+Process 226 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.50it/s]100%|██████████| 1/1 [00:00<00:00,  9.49it/s]
+Process 226 done.
+Process 226 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAAGAAACAACTCAAAGAAGGGCGTCACCTCACCTCTGCTTGGTCACAGAGGACTAGAAGCTCACTGTGGCCTTAAGGCCATGATTGATTAGGGCGTGGTACGGCGTGAATTGGAATTTAAGGCGAACCTTATACGGTTACGCTTTGTAAGCATTGGCACTCGAAAGGCTCATCATCTAAAGGACATGGATGAGTCGGGAAGGGATTACGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAAGAAACAACTCAAAGAAGGGCGTCACCTCACCTCTGCTTGGTCACAGAGGAATAGAAGCTCACTGTGGCCTTAAGGCCATGATTGATTAGGGCGTGGTACGGCGTGAATTGGAATTTAAGGCGAACCTTATACGGTTACGCTTTGTAAGCATTGGCACTCGAAAGGCTCATCATCTAAAGGACATGGATGAGTCGGGAAGGGATTACGAAGATAGAGC
+error counts = 1
+
+Process 227 working...
+Process 227 not correct due to empty fasta file. ❌
+Process 228 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.10it/s]100%|██████████| 1/1 [00:00<00:00,  9.09it/s]
+Process 228 done.
+Process 228 is correct! ✅
+Process 229 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.56it/s]100%|██████████| 1/1 [00:00<00:00,  7.55it/s]
+Process 229 done.
+Process 229 is correct! ✅
+Process 230 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.37it/s]100%|██████████| 1/1 [00:00<00:00,  7.37it/s]
+Process 230 done.
+Process 230 is correct! ✅
+Process 231 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.57it/s]100%|██████████| 1/1 [00:00<00:00,  9.56it/s]
+Process 231 done.
+Process 231 is correct! ✅
+Process 232 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.37it/s]100%|██████████| 1/1 [00:00<00:00,  8.36it/s]
+Process 232 done.
+Process 232 is correct! ✅
+Process 233 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.52it/s]100%|██████████| 1/1 [00:00<00:00,  8.51it/s]
+Process 233 done.
+Process 233 is correct! ✅
+Process 234 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.15it/s]100%|██████████| 1/1 [00:00<00:00,  9.14it/s]
+Process 234 done.
+Process 234 is correct! ✅
+Process 235 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 17.76it/s]
+Process 235 done.
+Process 235 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAACCAGGAAACCTGATAAAGCAAAGAATCATGACTCCGCAATTCGTAGCCTGGTTAAGCAGAGAGCCTTTGAATCGGCCCAGCCAATTCACCAATTGTTATGGCAGACGCGACACGTGCGGCCTATGTAATCCATAAGGTGCATAGAGATTAGGTCTACGTCACGGCCTCACACACCGCGCACAAGCGACAGTGTAAGACGCCTATGGCGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAATCAATCAGCTTTCCACCCGGCATCACCACGTCTCACCTCTGACCTAAGCACTATCTACGGACTTGGCGCAATAAGGCCAGGGTATCGGGGATGCCAATAACGCGAGCCGTCATACAGAAGGCGACTCAGCATAGAGATCGCAGAGAAGTAATGGGGCAACCAAAGGCAGCTATAGCCAGGTGTATCAAAGCGACGGGGAGCGTCGCGGAAGATAGAGC
+error counts = 152
+
+Process 236 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.76it/s]100%|██████████| 1/1 [00:00<00:00,  8.75it/s]
+Process 236 done.
+Process 236 is correct! ✅
+Process 237 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.45it/s]100%|██████████| 1/1 [00:00<00:00,  8.44it/s]
+Process 237 done.
+Process 237 is correct! ✅
+Process 238 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.05it/s]100%|██████████| 1/1 [00:00<00:00,  7.04it/s]
+Process 238 done.
+Process 238 is correct! ✅
+Process 239 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.17it/s]100%|██████████| 1/1 [00:00<00:00,  8.16it/s]
+Process 239 done.
+Process 239 is correct! ✅
+Process 240 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.49it/s]100%|██████████| 1/1 [00:00<00:00,  8.48it/s]
+Process 240 done.
+Process 240 is correct! ✅
+Process 241 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.14it/s]100%|██████████| 1/1 [00:00<00:00,  9.13it/s]
+Process 241 done.
+Process 241 is correct! ✅
+Process 242 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.28it/s]100%|██████████| 1/1 [00:00<00:00,  9.27it/s]
+Process 242 done.
+Process 242 is correct! ✅
+Process 243 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.23it/s]100%|██████████| 1/1 [00:00<00:00,  9.22it/s]
+Process 243 done.
+Process 243 is correct! ✅
+Process 244 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.51it/s]100%|██████████| 1/1 [00:00<00:00,  8.50it/s]
+Process 244 done.
+Process 244 is correct! ✅
+Process 245 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.34it/s]100%|██████████| 1/1 [00:00<00:00,  8.34it/s]
+Process 245 done.
+Process 245 is correct! ✅
+Process 246 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.98it/s]100%|██████████| 1/1 [00:00<00:00,  8.97it/s]
+Process 246 done.
+Process 246 is correct! ✅
+Process 247 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.42it/s]100%|██████████| 1/1 [00:00<00:00,  8.42it/s]
+Process 247 done.
+Process 247 is correct! ✅
+Process 248 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.10it/s]100%|██████████| 1/1 [00:00<00:00,  9.09it/s]
+Process 248 done.
+Process 248 is correct! ✅
+Process 249 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.48it/s]100%|██████████| 1/1 [00:00<00:00,  8.47it/s]
+Process 249 done.
+Process 249 is correct! ✅
+Process 250 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.56it/s]100%|██████████| 1/1 [00:00<00:00,  9.55it/s]
+Process 250 done.
+Process 250 is correct! ✅
+Process 251 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.63it/s]100%|██████████| 1/1 [00:00<00:00,  8.62it/s]
+Process 251 done.
+Process 251 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTCCGGCCTGAACTCACCCACCATCTTTGCTTTCCATCACGATCAGCCACTAATCCGGTCAAAGCCGAGCCTATGCAAGGCTAAACGCCTGGGCTATCCCCAGCTCTTTGCGCTTGCAAGAAAGGCTAACACGTCGTTCGCCGAGCACTCGTAAAGATCGAAATCTAAGGCTGAGGGGTTTGACTATGCACCAGGTAATAGACATTAGTGAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTCCGGCCTGAACTCACCCACCATCTTTGCTTTCCATCACGATCAGCCACTAATCCGGTCAAAGCTGAGCCTATGCAAGGCTAAACGCCTGGGCTATCCCCAGCTCTTTGCGCTTGCAAGAAAGGCTAACACGTCGTTCGCCGAGCACTCGTAAAGATCGAAATCTAAGGCTGAGGGGTTTGACTATGCACCAGGTAATAGACATTAGTGAGAAGATAGAGC
+error counts = 1
+
+Process 252 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.69it/s]100%|██████████| 1/1 [00:00<00:00,  8.68it/s]
+Process 252 done.
+Process 252 is correct! ✅
+Process 253 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.42it/s]100%|██████████| 1/1 [00:00<00:00,  9.41it/s]
+Process 253 done.
+Process 253 is correct! ✅
+Process 254 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.47it/s]100%|██████████| 1/1 [00:00<00:00,  9.46it/s]
+Process 254 done.
+Process 254 is correct! ✅
+Process 255 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.08it/s]100%|██████████| 1/1 [00:00<00:00,  9.07it/s]
+Process 255 done.
+Process 255 is correct! ✅
+Process 256 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 17.75it/s]
+Process 256 done.
+Process 256 is correct! ✅
+Process 257 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.65it/s]100%|██████████| 1/1 [00:00<00:00,  8.64it/s]
+Process 257 done.
+Process 257 is correct! ✅
+Process 258 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.21it/s]100%|██████████| 1/1 [00:00<00:00,  8.20it/s]
+Process 258 done.
+Process 258 is correct! ✅
+Process 259 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.00it/s]100%|██████████| 1/1 [00:00<00:00,  8.99it/s]
+Process 259 done.
+Process 259 is correct! ✅
+Process 260 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.64it/s]100%|██████████| 1/1 [00:00<00:00,  8.63it/s]
+Process 260 done.
+Process 260 is correct! ✅
+Process 261 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.16it/s]100%|██████████| 1/1 [00:00<00:00,  8.15it/s]
+Process 261 done.
+Process 261 is correct! ✅
+Process 262 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.76it/s]100%|██████████| 1/1 [00:00<00:00,  8.75it/s]
+Process 262 done.
+Process 262 is correct! ✅
+Process 263 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.28it/s]100%|██████████| 1/1 [00:00<00:00,  9.27it/s]
+Process 263 done.
+Process 263 is correct! ✅
+Process 264 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.34it/s]100%|██████████| 1/1 [00:00<00:00,  9.33it/s]
+Process 264 done.
+Process 264 is correct! ✅
+Process 265 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.96it/s]100%|██████████| 1/1 [00:00<00:00,  8.95it/s]
+Process 265 done.
+Process 265 is correct! ✅
+Process 266 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.02it/s]100%|██████████| 1/1 [00:00<00:00,  9.01it/s]
+Process 266 done.
+Process 266 is correct! ✅
+Process 267 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.22it/s]100%|██████████| 1/1 [00:00<00:00,  9.21it/s]
+Process 267 done.
+Process 267 is correct! ✅
+Process 268 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.55it/s]100%|██████████| 1/1 [00:00<00:00,  9.54it/s]
+Process 268 done.
+Process 268 is correct! ✅
+Process 269 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.45it/s]100%|██████████| 1/1 [00:00<00:00,  9.44it/s]
+Process 269 done.
+Process 269 is correct! ✅
+Process 270 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.30it/s]100%|██████████| 1/1 [00:00<00:00,  8.29it/s]
+Process 270 done.
+Process 270 is correct! ✅
+Process 271 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.42it/s]100%|██████████| 1/1 [00:00<00:00,  9.41it/s]
+Process 271 done.
+Process 271 is correct! ✅
+Process 272 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.44it/s]100%|██████████| 1/1 [00:00<00:00,  9.43it/s]
+Process 272 done.
+Process 272 is correct! ✅
+Process 273 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.47it/s]100%|██████████| 1/1 [00:00<00:00,  8.46it/s]
+Process 273 done.
+Process 273 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTTCACCAACATTAGACGTTCAATAACCACCCACTCTCAGGACAGACGAGTCTTCCTCCATAGGTAGAATCTTACTAAGGCAGTCTGGCAACGGTGGCGTGCTTCGACCACAAAATCTTGAAAGGCGTTTCTTAAAGCACTAAAGGGGTGTTTGTATTCGGAATCCAAGGCTGATTGTGCAATGGCGCGGGTTCTAGCCTGTTCTAGGGAAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTTCACCAACATTAGACGTTCAATAACCACCCACTCTCAGGACAGACGAGTCTTCCTCCATAGGTAGAATCTTACTAAGGCAGTCTGGCAACGGTGGCGTGCTTCGACCACAAAATCTTGAAAGGCGTTTCTTAAAGCACTAAAGGGGTGTTTGTATTCGGAATCCAAGGCTGATTGTGCAATGGCGCGGGTTCTAGCCTGTTCTAGGGAGGAAGATAGAGC
+error counts = 1
+
+Process 274 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.48it/s]100%|██████████| 1/1 [00:00<00:00,  8.47it/s]
+Process 274 done.
+Process 274 is correct! ✅
+Process 275 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.19it/s]100%|██████████| 1/1 [00:00<00:00,  9.18it/s]
+Process 275 done.
+Process 275 is correct! ✅
+Process 276 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.23it/s]100%|██████████| 1/1 [00:00<00:00,  8.22it/s]
+Process 276 done.
+Process 276 is correct! ✅
+Process 277 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.18it/s]100%|██████████| 1/1 [00:00<00:00,  9.17it/s]
+Process 277 done.
+Process 277 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAAGAAACAAGGTCCGCTCCTACAACAATCAACATCTACCAGCAGAAACACGAGTACCAGACGTACGCGGTTTGAAGGCGACGGTGTTATAATTTCAGACCCAATTGAAGTGGGGCACCAAGGCCCAGTCTGAGCTGTCTCTAGCCCAGCAACTATTAGAGAGGAAGGCCCTTATATTGAACTCCTGCGATTAGGGGCTGCAAAGCGGCGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAAGAAACAAGGTCCGCTCCTACAACAATCAACATCTACCAGCAGAAACACGAGTACCAGACGTACGCGGTTTGAAGGCGACGGTGTTATAATTTCAGACCCAATTGAAGTGGGGCACCAAGGCCCAGTCTGAGCTGTCTCTAGCCCAGCAACTATTAGAGAGGAAGGCCCTTATATTGAACTCCTGCGATTAGGGGCTTGCAAAGCGCGAAGATAGAGC
+error counts = 6
+
+Process 278 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.94it/s]100%|██████████| 1/1 [00:00<00:00,  7.94it/s]
+Process 278 done.
+Process 278 is correct! ✅
+Process 279 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.17it/s]100%|██████████| 1/1 [00:00<00:00,  8.16it/s]
+Process 279 done.
+Process 279 is correct! ✅
+Process 280 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.28it/s]100%|██████████| 1/1 [00:00<00:00,  9.27it/s]
+Process 280 done.
+Process 280 is correct! ✅
+Process 281 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.84it/s]100%|██████████| 1/1 [00:00<00:00,  7.83it/s]
+Process 281 done.
+Process 281 is correct! ✅
+Process 282 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.61it/s]100%|██████████| 1/1 [00:00<00:00,  8.60it/s]
+Process 282 done.
+Process 282 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAATTCCGTTCACCCACGAGGGAGGAATTCTGATCTCATGGGACTGCAATTGACTAGGACCCCGTCAAGATTTGGAAGGCCGGATTGTAAAGTGCAGATCCATCAATGAGGATAAGCCCGAAGGCCACAGAAATCGAGGTGCGTCTATTCCCGCGTTGTACGTAGAAGGCTTTGACCACTAAGGAGTGTTTGGGATTAGTAAACGCGCCAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAATTCCGTTCACCCACGAGGGAGGAATTCTGATCTCATGGGACTGCAATTGACTAGGACCCCGTCAAGATTTGGAAGGCCGGATTGTAAAGTGCAGATCCATCAATGAGGATAGAGCCGAAGGCCACAGAAATCGAGGTGCGTCTATTCCCGCGTTGTACGTAGAAGGCTTTGACCACTAAGGAGTGTTTGGGATTAGTAAACGCGCCAGAAGATAGAGC
+error counts = 3
+
+Process 283 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.17it/s]100%|██████████| 1/1 [00:00<00:00,  9.16it/s]
+Process 283 done.
+Process 283 is correct! ✅
+Process 284 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.55it/s]100%|██████████| 1/1 [00:00<00:00,  9.54it/s]
+Process 284 done.
+Process 284 is correct! ✅
+Process 285 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.38it/s]100%|██████████| 1/1 [00:00<00:00,  8.38it/s]
+Process 285 done.
+Process 285 is correct! ✅
+Process 286 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.04it/s]100%|██████████| 1/1 [00:00<00:00,  9.03it/s]
+Process 286 done.
+Process 286 is correct! ✅
+Process 287 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 11.66it/s]
+Process 287 done.
+Process 287 is correct! ✅
+Process 288 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.53it/s]100%|██████████| 1/1 [00:00<00:00,  9.52it/s]
+Process 288 done.
+Process 288 is correct! ✅
+Process 289 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.13it/s]100%|██████████| 1/1 [00:00<00:00,  9.12it/s]
+Process 289 done.
+Process 289 is correct! ✅
+Process 290 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.44it/s]100%|██████████| 1/1 [00:00<00:00,  9.43it/s]
+Process 290 done.
+Process 290 is correct! ✅
+Process 291 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.23it/s]100%|██████████| 1/1 [00:00<00:00,  9.22it/s]
+Process 291 done.
+Process 291 is correct! ✅
+Process 292 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.41it/s]100%|██████████| 1/1 [00:00<00:00,  9.40it/s]
+Process 292 done.
+Process 292 is correct! ✅
+Process 293 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.09it/s]100%|██████████| 1/1 [00:00<00:00,  8.08it/s]
+Process 293 done.
+Process 293 is correct! ✅
+Process 294 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.36it/s]100%|██████████| 1/1 [00:00<00:00,  9.35it/s]
+Process 294 done.
+Process 294 is correct! ✅
+Process 295 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.64it/s]100%|██████████| 1/1 [00:00<00:00,  8.63it/s]
+Process 295 done.
+Process 295 is correct! ✅
+Process 296 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 17.54it/s]
+Process 296 done.
+Process 296 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTACTACCGCGGAAAGGACTACAAAGACAGACGTTTCAGTCACCTGAAGTCTTGAGAGCGCAGACAATTCCGTATCAATAAGGCACGCAAGGTTCAGGAGGTGAGAGCTTTACGTACAACCTTAAAGGCAACAAGGATGACCGGATGGTTTATTGACTGTCTAGAGCTAAAGGCTCCGGCGCCTCCTCTATTACCCTCGAGGGAACTCCCTGTCGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTACCACGGAAAGGACTACAAAGACAGACGTTTCAGTCACCTGAAGTCTTGAGAGCGCAGACAATTCCGTATCAATAAGGCACGCAAGGTTCAGGAGGTGAGAGCTTTACGTACAACCTTAAAGGCAACAAGGATGACCGGATGGTTTATTGACTGTCTAGAGCTAAAGGCTCCGGCGCCTCCTCTATTACCCTCGAGGGAACTCCCTGTCGAAGATAGAGC
+error counts = 2
+
+Process 297 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.49it/s]100%|██████████| 1/1 [00:00<00:00,  8.49it/s]
+Process 297 done.
+Process 297 is correct! ✅
+Process 298 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.33it/s]100%|██████████| 1/1 [00:00<00:00,  9.32it/s]
+Process 298 done.
+Process 298 is correct! ✅
+Process 299 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.52it/s]100%|██████████| 1/1 [00:00<00:00,  8.51it/s]
+Process 299 done.
+Process 299 is correct! ✅
+Process 300 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  6.83it/s]100%|██████████| 1/1 [00:00<00:00,  6.83it/s]
+Process 300 done.
+Process 300 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAACCTCACCAACTTTGTTTCACCAACATTAGACGTTCACCTAGGTACATCTCACGCTTCAGTCATTCCGGCTTATAAGCTAAAGGAGAAACGCCCCATCACCTAATGCAAACACATCGAAGGCCAGACAACGGTTCCCGTCCAGACTTATCGGCGTGGTAAAGTCAAGGCTATACAACTCACTGAGGCCACGGCTGCTACAGACCACCCGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTACCTCACCAACTTTGTTTCACCAACATTAGACGTTCAGCTAGGTACATCTCACGCTTCGATCGTACCGGCTTATAAGGCTAAAGGAGAAACTGCCCCATCGCCTAATGCAAACACATCGAAGGCCCGAGTACGGTTCTCGTCCAGACTTATCGGCGTGAAAGTCAAGGCTATTACAACTCACTGAGGCCACGGCTGCTACAGACCACTCGAAGATAGAGC
+error counts = 118
+
+Process 301 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.87it/s]100%|██████████| 1/1 [00:00<00:00,  8.86it/s]
+Process 301 done.
+Process 301 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTACCTCACCAACTTTGTTTCCTACTACCCACCTCCTCCCAACATGATCTGAGGTTACAGACGCCGATGATGCAAAAAGGCTACCTAAGCGCATTCCGCCTCATCTCAACCCGTATTTGTAAAGGCAAGGACCGCTGTCCAGAGAAATTGGATATCGCTGACAGTCAAGGCAATATTGATTTGAACCGGTAATACGATCTGGACACGCGGAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTACCTCACCAACTTTGTTTCCTACTACCCACCTCCTCCCAACATGATCTGAGGTTACAGACGCCGATGATGCAAAAAGGCTACCTAAGCGCATTCCGCCTCATCTCAACCCGTATTTGTAAAGGCAAGGACCGCTGTCCAGAGAAATTGGATATCGCTGACAGTCAAGGCAATATTGATTTGAACCGGTAATACGATCTGGACACGCGGGGAAGATAGAGC
+error counts = 1
+
+Process 302 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.48it/s]100%|██████████| 1/1 [00:00<00:00,  9.47it/s]
+Process 302 done.
+Process 302 is correct! ✅
+Process 303 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.44it/s]100%|██████████| 1/1 [00:00<00:00,  8.43it/s]
+Process 303 done.
+Process 303 is correct! ✅
+Process 304 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 18.32it/s]
+Process 304 done.
+Process 304 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTGGCGGAGTAATGTCGTTAATCTACTAATGTCACCTCAGGTGTTCCCAACAGAGGGATTTGCCAATGATCCCTATAAGGCGGACGCACTAATTGCCCGCACAACAAAATACTTTGTTAAAAGGCTGCCTGTCACAAATGTCGGGAGATATACTGCGCGCTTCACAAGGCCGAGATCATTACCGAAATCAGAGTTGGATCTTTAGCCTGATGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTGGCGGAGTAATGTCGTTAATCTACTAATGTCACCTCAGGTGTTCCCAACAGAGGGTTTTGCCAATGATCCCTATAAGGCGGACGCACTAATTGCTCGGCACAACAAAATACTACGTTAAAAGGCTGCCTGTCACAAATGTCGGGAGATATACTGCGCGCTTCACAAGGCGAGATCATTACCGAAATCAGAGTTGGATCTTTAGCCTGATGAAGATAGAGC
+error counts = 55
+
+Process 305 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.13it/s]100%|██████████| 1/1 [00:00<00:00,  8.13it/s]
+Process 305 done.
+Process 305 is correct! ✅
+Process 306 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  6.72it/s]100%|██████████| 1/1 [00:00<00:00,  6.72it/s]
+Process 306 done.
+Process 306 is correct! ✅
+Process 307 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.30it/s]100%|██████████| 1/1 [00:00<00:00,  9.29it/s]
+Process 307 done.
+Process 307 is correct! ✅
+Process 308 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.47it/s]100%|██████████| 1/1 [00:00<00:00,  8.47it/s]
+Process 308 done.
+Process 308 is correct! ✅
+Process 309 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.35it/s]100%|██████████| 1/1 [00:00<00:00,  9.34it/s]
+Process 309 done.
+Process 309 is correct! ✅
+Process 310 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.64it/s]100%|██████████| 1/1 [00:00<00:00,  8.63it/s]
+Process 310 done.
+Process 310 is correct! ✅
+Process 311 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 15.90it/s]
+Process 311 done.
+Process 311 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAACAGGACCAGGCGAAGAAAAAATAGGAACATACCTCACAAGCATGTAGCCCTTGGTTCTGCAGATAGTTTGAGGGCCTTACAAGCGGCCCGGTTTACACCAATTGTAATGCAAGACTCGGCCTACGTTCTCGTTACGGTGCTTAGAGACGCGGTCGCTGCCACGGCCTGACGCACTGGGGACAATGGCTTGTCTATCCGGCGTATGGCGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAACTCACCCACCAGATCAATGTCGTTAACTACTCTCATGGAGGATGCACGAACAGTAAGGGACCCGTCATTTCCAAGGCCACGGAGTAGCGACATGGAACGAAAATCTTAGGAAAGTGAAAGGCAATATCTTGCAATCTCTCTCACTGCGAGTATAGGAGTTTTAAGGCGTAGTCTCACTTCTCTCAGCTGCCCAGCTCTATCAGTGACGAAGATAGAGC
+error counts = 152
+
+Process 312 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.78it/s]100%|██████████| 1/1 [00:00<00:00,  8.77it/s]
+Process 312 done.
+Process 312 is correct! ✅
+Process 313 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.14it/s]100%|██████████| 1/1 [00:00<00:00,  9.13it/s]
+Process 313 done.
+Process 313 is correct! ✅
+Process 314 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.13it/s]100%|██████████| 1/1 [00:00<00:00,  9.12it/s]
+Process 314 done.
+Process 314 is correct! ✅
+Process 315 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.25it/s]100%|██████████| 1/1 [00:00<00:00,  9.24it/s]
+Process 315 done.
+Process 315 is correct! ✅
+Process 316 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.24it/s]100%|██████████| 1/1 [00:00<00:00,  9.23it/s]
+Process 316 done.
+Process 316 is correct! ✅
+Process 317 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.64it/s]100%|██████████| 1/1 [00:00<00:00,  8.63it/s]
+Process 317 done.
+Process 317 is correct! ✅
+Process 318 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.30it/s]100%|██████████| 1/1 [00:00<00:00,  9.29it/s]
+Process 318 done.
+Process 318 is correct! ✅
+Process 319 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.33it/s]100%|██████████| 1/1 [00:00<00:00,  9.32it/s]
+Process 319 done.
+Process 319 is correct! ✅
+Process 320 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.66it/s]100%|██████████| 1/1 [00:00<00:00,  8.65it/s]
+Process 320 done.
+Process 320 is correct! ✅
+Process 321 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.48it/s]100%|██████████| 1/1 [00:00<00:00,  9.47it/s]
+Process 321 done.
+Process 321 is correct! ✅
+Process 322 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 13.87it/s]
+Process 322 done.
+Process 322 is correct! ✅
+Process 323 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.58it/s]100%|██████████| 1/1 [00:00<00:00,  9.57it/s]
+Process 323 done.
+Process 323 is correct! ✅
+Process 324 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.49it/s]100%|██████████| 1/1 [00:00<00:00,  9.48it/s]
+Process 324 done.
+Process 324 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAATGGAGGAAAGAAGTCACTGTTACCAACTACTCTCCACATCCTAGGGTTTAGTACTGGCACGAATACTTCGCGAAGGCTCCTCGCGATGAATCACGGCCATCTAGATACTGAGTCCATAAGGCTCTCCCACACCGGCTTTAACTCGCTTGATTGGTATAGGGGAAGGCTCGGGCAGCAGATATTACCTCGTTCGTGGCCTCCCACGCAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAATGGAGGAAAGAAGTCACTGTTACCAACTACTCTCCACATCCTAGGGTTTAGTACTGGCACGAATACTTCGCGAAGGCTCCTCGCGATGAATCACGGCCATCTAGATACTGAGTCCATAAGGCTCTCCCACACCGGCTTTAACTCGCTTGATTGGTATAGGGGAAGGCTCGGGCAGCAGATATTACCTCGTTCGTGGCCTCCCACGCGGAAGATAGAGC
+error counts = 1
+
+Process 325 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.28it/s]100%|██████████| 1/1 [00:00<00:00,  8.27it/s]
+Process 325 done.
+Process 325 is correct! ✅
+Process 326 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.56it/s]100%|██████████| 1/1 [00:00<00:00,  9.55it/s]
+Process 326 done.
+Process 326 is correct! ✅
+Process 327 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.47it/s]100%|██████████| 1/1 [00:00<00:00,  9.46it/s]
+Process 327 done.
+Process 327 is correct! ✅
+Process 328 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.44it/s]100%|██████████| 1/1 [00:00<00:00,  8.43it/s]
+Process 328 done.
+Process 328 is correct! ✅
+Process 329 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.26it/s]100%|██████████| 1/1 [00:00<00:00,  8.25it/s]
+Process 329 done.
+Process 329 is correct! ✅
+Process 330 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.46it/s]100%|██████████| 1/1 [00:00<00:00,  9.45it/s]
+Process 330 done.
+Process 330 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCCTCCGCCTCAAACCACGTAATCCATACCCTCGTTTTCACGATCAGCCTTATGCGGCAAATGCAGATGCAGGACACAAGGCGAGCGTGAAGTTTCCGACCGCTGAGAGAACAACATTTGTGAAGGCAAACCATCTGTCCGGGCGCTTGAGTCGTACCCCGTTCTGCAAGGCCAGTATTCTAATTGTGTAAACAATTCAACGGCTTGCCCTTGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTTCCGCCTCAAACCACGTAATCCATACCCTCGTTTTCACGATCAGCCTTATGCGGCAAATGCAGATGCAGGACACAAGGCGAGCGTGAAGTTTCCGACCGCTGAGAGAACAACATTTGTGAAGGCAAACCATCTGTCCGGGCGCTTGAGTCGTACCCCGTTCTGCAAGGCCAGTATTCTAATTGTGTAAACAATTCAACGGCTTGCCCTTGAAGATAGAGC
+error counts = 1
+
+Process 331 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.65it/s]100%|██████████| 1/1 [00:00<00:00,  9.63it/s]
+Process 331 done.
+Process 331 is correct! ✅
+Process 332 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.30it/s]100%|██████████| 1/1 [00:00<00:00,  8.29it/s]
+Process 332 done.
+Process 332 is correct! ✅
+Process 333 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.54it/s]100%|██████████| 1/1 [00:00<00:00,  8.53it/s]
+Process 333 done.
+Process 333 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAAGAAAGGAAAGTTATTCGGACCACCCTCGTTTTCACACTCCAGCACAGAGACAGCAGTCAAGGAAAGAACACAAGGCCGCACAGAGAACTAAATCTATCGACTCGTTGCCTTCAGGAAAAGGCTAGCACCCTTGGGAGGTAGCCATTCGCACACTGACAAAGGAAGGCTCGCATTCGAGCTTCTTTGAGGTTGGCGATGTAAACTAGGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAAGAAAGGAAAGTTATTCGGACCACCCTCGTTTTCACACTCCAGCACAGAGACAGCAGTCAAGGAAAGAACACAAGGCCGCACAGAGAACTAATCTATCGACTCGTTGCCTTCAGGAAAAGGCTAGCACCCTTGGGAGGTAGCCATTCGCACACTGACAAAGGAAGGCTCGCATTCGAGCTTCTTTGAGGTTGGCGATGTAGAGCTAGGAAGATAGAGC
+error counts = 82
+
+Process 334 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.58it/s]100%|██████████| 1/1 [00:00<00:00,  9.57it/s]
+Process 334 done.
+Process 334 is correct! ✅
+Process 335 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.23it/s]100%|██████████| 1/1 [00:00<00:00,  9.21it/s]
+Process 335 done.
+Process 335 is correct! ✅
+Process 336 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.27it/s]100%|██████████| 1/1 [00:00<00:00,  8.26it/s]
+Process 336 done.
+Process 336 is correct! ✅
+Process 337 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.79it/s]100%|██████████| 1/1 [00:00<00:00,  7.78it/s]
+Process 337 done.
+Process 337 is correct! ✅
+Process 338 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.41it/s]100%|██████████| 1/1 [00:00<00:00,  8.40it/s]
+Process 338 done.
+Process 338 is correct! ✅
+Process 339 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.43it/s]100%|██████████| 1/1 [00:00<00:00,  8.42it/s]
+Process 339 done.
+Process 339 is correct! ✅
+Process 340 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 12.18it/s]
+Process 340 done.
+Process 340 is correct! ✅
+Process 341 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.49it/s]100%|██████████| 1/1 [00:00<00:00,  9.48it/s]
+Process 341 done.
+Process 341 is correct! ✅
+Process 342 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.39it/s]100%|██████████| 1/1 [00:00<00:00,  9.38it/s]
+Process 342 done.
+Process 342 is correct! ✅
+Process 343 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.47it/s]100%|██████████| 1/1 [00:00<00:00,  8.46it/s]
+Process 343 done.
+Process 343 is correct! ✅
+Process 344 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.76it/s]100%|██████████| 1/1 [00:00<00:00,  7.76it/s]
+Process 344 done.
+Process 344 is correct! ✅
+Process 345 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.43it/s]100%|██████████| 1/1 [00:00<00:00,  8.42it/s]
+Process 345 done.
+Process 345 is correct! ✅
+Process 346 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.10it/s]100%|██████████| 1/1 [00:00<00:00,  9.09it/s]
+Process 346 done.
+Process 346 is correct! ✅
+Process 347 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.67it/s]100%|██████████| 1/1 [00:00<00:00,  9.66it/s]
+Process 347 done.
+Process 347 is correct! ✅
+Process 348 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.57it/s]100%|██████████| 1/1 [00:00<00:00,  9.56it/s]
+Process 348 done.
+Process 348 is correct! ✅
+Process 349 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.38it/s]100%|██████████| 1/1 [00:00<00:00,  9.36it/s]
+Process 349 done.
+Process 349 is correct! ✅
+Process 350 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.28it/s]100%|██████████| 1/1 [00:00<00:00,  9.27it/s]
+Process 350 done.
+Process 350 is correct! ✅
+Process 351 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 12.54it/s]
+Process 351 done.
+Process 351 is correct! ✅
+Process 352 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.35it/s]100%|██████████| 1/1 [00:00<00:00,  9.35it/s]
+Process 352 done.
+Process 352 is correct! ✅
+Process 353 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.89it/s]100%|██████████| 1/1 [00:00<00:00,  8.88it/s]
+Process 353 done.
+Process 353 is correct! ✅
+Process 354 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.18it/s]100%|██████████| 1/1 [00:00<00:00,  8.18it/s]
+Process 354 done.
+Process 354 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTTCCGCCTCAAACGTTTAAATGTCGTTAACTACTCTCAGGACAACTTGCGGACATGGTTTAACGAATCCACGCCTAAGGCACGTCGATACACTGGCCCCTCCCATAATGGCTCGTATCCAAAGGCTGGGCTTATATAATAATGTTCATGCGCCGGAGGGCCTAAAAGGCGCTATTAGGTTGGCGTTCCCGGCGCCTCACAACGACGGGGTGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTTCCGCCTCAAACGTTTAAATGTCGTTAACTACTCTCAGGACAACTTGCGGACATGGTTTAACGAATCCACGCCTAAGGCACGTCGATACACTGGCCCCTCCCATAATGGCTCGTATCCAAAGGCTGGAGCTTATATAATAATGTTCATGCGCCGGAGGGCCTAAAAGGCGCTATTAGGTTGGCGTTCCCGGCGCCTCACAACGACGGGTGAAGATAGAGC
+error counts = 55
+
+Process 355 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.02it/s]100%|██████████| 1/1 [00:00<00:00,  9.02it/s]
+Process 355 done.
+Process 355 is correct! ✅
+Process 356 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.42it/s]100%|██████████| 1/1 [00:00<00:00,  9.41it/s]
+Process 356 done.
+Process 356 is correct! ✅
+Process 357 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.99it/s]100%|██████████| 1/1 [00:00<00:00,  7.99it/s]
+Process 357 done.
+Process 357 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAAGAAAGGAACATACCAGTCGCTCACTCCATCGTCATGGTCCACTTCCCTAATGGATAGTGTGCCGCGAGGTGAAGGCAAATCCTTCATGAGAAATTCGAAACCTAACGAATGCCTCAAAGGCGAATGGGAACCCCGGCCAGACGTGCCCCGCCGTCTTCACAAAGGCGCTCTCTGTCAGTAGCTCGAAGTGCGAGGAACGAGACCGCGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAAGAAAGGAACATACCAGTCGCTCACTCCATCGTCATGGTCCACTTCCCTAATGGATAGTGTGCCGCGAGGTGAAGGCAAATCCTTCATGAGAAATTCGAAACCTAACGAATGCCTCAAAGGCGAATGGGAACCCCGGCCAGACGTGCCCCGCCGTCTTCACAAAGGCGCTCTCTGTCAGTAGCTCGAAGTGCGAGGAACGAGACCGTGAAGATAGAGC
+error counts = 1
+
+Process 358 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.38it/s]100%|██████████| 1/1 [00:00<00:00,  9.37it/s]
+Process 358 done.
+Process 358 is correct! ✅
+Process 359 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.47it/s]100%|██████████| 1/1 [00:00<00:00,  9.46it/s]
+Process 359 done.
+Process 359 is correct! ✅
+Process 360 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.18it/s]100%|██████████| 1/1 [00:00<00:00,  9.17it/s]
+Process 360 done.
+Process 360 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAGTCCCACGTTTGGTCAAAGGATCACGGACTTTTCGTAAGCAGTTAGTGACAGGAATCTGAGGGAGAGGTAATAAGGCAGCCAGTAGGATTACACCGCACCCAGCTCCCCGTTCGTGTAAGGCTGACCGTCTCATCAAGCCAACGGGGCTCGAATTAACTGGAAAGGCGGACGAGTGCAATGAGACGACCAGGACATAGCTGCTACTTGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAGTCCCACGTTTGGTCAAAGGATCACGGACTTTTCGTAGAGCAGTTAGTGACAGGAATCTGAGGAGAGGTAATAAGGCAGCCAGTAGGATTACACCGCACCCAGCTCCCCGTTCGTGTAAGGCTGACCGTCTCATCAAGCCAACGGGGCTCGAATTAACTGGAAAGGCGGACGAGTGCAATGAGACGACCAGGACATAGCTGCTACTTGAAGATAGAGC
+error counts = 21
+
+Process 361 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.47it/s]100%|██████████| 1/1 [00:00<00:00,  8.46it/s]
+Process 361 done.
+Process 361 is correct! ✅
+Process 362 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.47it/s]100%|██████████| 1/1 [00:00<00:00,  9.46it/s]
+Process 362 done.
+Process 362 is correct! ✅
+Process 363 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.36it/s]100%|██████████| 1/1 [00:00<00:00,  9.35it/s]
+Process 363 done.
+Process 363 is correct! ✅
+Process 364 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.29it/s]100%|██████████| 1/1 [00:00<00:00,  9.28it/s]
+Process 364 done.
+Process 364 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTATCGGACTTACCTCACCAGGTTTATCAATCAACATCCCTATCACATGGGCATCTGCCAGTGTCACATGTGGGTGAAGGCGTACCATTTGTTTGCAATGTGAGCTTCGTTAGACTCCACTAAGGCCTACATGGTACGTGAGCCACAAAAGAGCACTACCACCATTAAGGCATCCACTTTTCGATGCCCTGAGGATGGCGCTGGGCAAGCAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTATCGGACTTACCTCACCAGGTTTATCAATCAACATCCCTATCACATGGGCATCTGCCAGTGTCACATGTGGGTGAAGGCGTACCATTTGTTTGCAATGTGAGCTTCGTTAGACTCCACTAAGGCCTACATGGTACGTGAGCCACAAAAGAGCACTACCACCATTAAGGCATCCACTTTTCGATGCCCCGAGGATGGCGCTGGGCAAGCAGAAGATAGAGC
+error counts = 1
+
+Process 365 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.81it/s]100%|██████████| 1/1 [00:00<00:00,  9.80it/s]
+Process 365 done.
+Process 365 is correct! ✅
+Process 366 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.56it/s]100%|██████████| 1/1 [00:00<00:00,  8.55it/s]
+Process 366 done.
+Process 366 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTTCGATGGATCACCCACGAAACTTCCCGCTTTCCATCACCAGAGTCCACTTCGACCTCAGTTTTACGGGATGAGTAAGGCTTACTGCACGCTGTGCGCTGCAATACCCCTCGATACGACCAAGGCTAACAACGATTCGCTCTTGCGCCGACACGTGAGGATGTCGAAGGCGGAGAAAATAAGACTCCGTTAGACCACGGACCCGATGTGAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTTCGATGGATCACCCACGAAACTTCCCGCTTTCCATCACCAGAGTCCACTTCGACCTCAGTTTTACGGGATGAGTAAGGCTTACTGCACGCTGTGCGCTGCAATACCCCTCGATACGACCAAGGCTAACAACGATTCGCTCTTGCGCCGACACGTGAGGATGTCGAAGGCGGAGAAAATAAGACTCCGTTAGACCACGGACCCGATGTGGGAAGATAGAGC
+error counts = 1
+
+Process 367 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.45it/s]100%|██████████| 1/1 [00:00<00:00,  9.44it/s]
+Process 367 done.
+Process 367 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAGGACGTAAGGGCGTCAAATAAGGAGGGAAGATTCCAACCTCAACAAGCGATCCCTTTGTTCAAACTCGCAATAAGGCCCCTCAGTCACCATGATCAGGGCTTACGTTTGGCCATCTTAAGGCTGTAAACTTCATCTATGTCATGTCCCTGGCGATCGATAGGAAGGCGCCGGGGCTTAGGAGGTTTCCCTATGGTTAACACCATTAGGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAGGACGTAAGGGCGTCAAATAAGGAGGGAAGATTCCAACCTCAACAAGCGATCCCTTTGTTCAAACTCGCAATAAGGCCCCTCAGTCACCATGATCAGGGCTTACGTTTGGCCATCTTAAGGCTGTAAACTTCATCTATGTCATGTCCCTGGCGATCGATAGGAAGGCGCCGGGGCTTAGGAGGTTCCCCTATGGTTAACACCATTAGGAAGATAGAGC
+error counts = 1
+
+Process 368 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.57it/s]100%|██████████| 1/1 [00:00<00:00,  9.56it/s]
+Process 368 done.
+Process 368 is correct! ✅
+Process 369 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.16it/s]100%|██████████| 1/1 [00:00<00:00,  9.15it/s]
+Process 369 done.
+Process 369 is correct! ✅
+Process 370 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.26it/s]100%|██████████| 1/1 [00:00<00:00,  9.25it/s]
+Process 370 done.
+Process 370 is correct! ✅
+Process 371 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  6.76it/s]100%|██████████| 1/1 [00:00<00:00,  6.76it/s]
+Process 371 done.
+Process 371 is correct! ✅
+Process 372 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.20it/s]100%|██████████| 1/1 [00:00<00:00,  8.19it/s]
+Process 372 done.
+Process 372 is correct! ✅
+Process 373 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.19it/s]100%|██████████| 1/1 [00:00<00:00,  9.18it/s]
+Process 373 done.
+Process 373 is correct! ✅
+Process 374 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.90it/s]100%|██████████| 1/1 [00:00<00:00,  8.89it/s]
+Process 374 done.
+Process 374 is correct! ✅
+Process 375 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.58it/s]100%|██████████| 1/1 [00:00<00:00,  7.57it/s]
+Process 375 done.
+Process 375 is correct! ✅
+Process 376 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.01it/s]100%|██████████| 1/1 [00:00<00:00,  8.00it/s]
+Process 376 done.
+Process 376 is correct! ✅
+Process 377 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.48it/s]100%|██████████| 1/1 [00:00<00:00,  9.47it/s]
+Process 377 done.
+Process 377 is correct! ✅
+Process 378 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.00it/s]100%|██████████| 1/1 [00:00<00:00,  7.99it/s]
+Process 378 done.
+Process 378 is correct! ✅
+Process 379 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.42it/s]100%|██████████| 1/1 [00:00<00:00,  9.41it/s]
+Process 379 done.
+Process 379 is correct! ✅
+Process 380 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.53it/s]100%|██████████| 1/1 [00:00<00:00,  9.52it/s]
+Process 380 done.
+Process 380 is correct! ✅
+Process 381 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  6.95it/s]100%|██████████| 1/1 [00:00<00:00,  6.94it/s]
+Process 381 done.
+Process 381 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTACCACTTGCGTTCTATCAAGGACGTAAGGGCGTCTCAGCTAGGATAGTGACTGCGTTAGGCATAAGTGACCAGTAAGGCCGGGACCCACACATCTGGAGGCTTCTAGGAACGCGCATCAAAGGCTGTGTTGTATATTGACGCTCCTTACGGTAGTGCGCAACTAAAGGCTATTGCCTCATAAAGCACCGGGATCCGTCCAGACGCTCTAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTACCACTTGCGTTCTATCAAGGACGTAAGGGCGTCTCAGCTAGGATAGTGACTGCGTTAGGCATAAGTGACCAGTAAGGCCGGGACCCACACATCTGGAGGCTTCTAGGAACGCGCATCAAAGGCTGTGTTGTATATTGACGCTCCTTACGGTAGTGCGCAACTAAAGGCTATTGCCTCATAAAGCACCGGGATCTGTCCAGACGCTCTAGAAGATAGAGC
+error counts = 1
+
+Process 382 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.25it/s]100%|██████████| 1/1 [00:00<00:00,  8.25it/s]
+Process 382 done.
+Process 382 is correct! ✅
+Process 383 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.51it/s]100%|██████████| 1/1 [00:00<00:00,  8.51it/s]
+Process 383 done.
+Process 383 is correct! ✅
+Process 384 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.50it/s]100%|██████████| 1/1 [00:00<00:00,  9.49it/s]
+Process 384 done.
+Process 384 is correct! ✅
+Process 385 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.81it/s]100%|██████████| 1/1 [00:00<00:00,  8.80it/s]
+Process 385 done.
+Process 385 is correct! ✅
+Process 386 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.99it/s]100%|██████████| 1/1 [00:00<00:00,  8.98it/s]
+Process 386 done.
+Process 386 is correct! ✅
+Process 387 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.76it/s]100%|██████████| 1/1 [00:00<00:00,  8.76it/s]
+Process 387 done.
+Process 387 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAGTCTTTAAAGAAACATCCTACTACCCACCTCCTCAGGTGATGACGTTCTCGTAGGAGGTATGGGGCAGTTTAAAGGCGTCGAAACCCCCGTAGCCCGGACAGAGATACCAATTCATAAAGGCTTATAGTTTAGTGATGCGAAAACGCTCTAATGAGCTCACCAAGGCTTGACCCTCACGAAATCGCATCTGAGTAAAGCTCCCATCAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAGTCTTTAAAGAAACATCCTACTACCCACCTCCTCAGGTGATGACGTTCTCGTAGGAGGTATGGGGCAGTTTAAAGGCGTCGAAACTCCCGTAGCCCGGACAGAGATACCAATTCATAAAGGCTTATAGTTTAGTGATGCGAAAACGCTCTAATGAGCTCACCAAGGCTTGACCCTCACGAAATCGCATCTGAGTAGAGCTCCCATCAGAAGATAGAGC
+error counts = 2
+
+Process 388 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.45it/s]100%|██████████| 1/1 [00:00<00:00,  8.44it/s]
+Process 388 done.
+Process 388 is correct! ✅
+Process 389 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 10.84it/s]
+Process 389 done.
+Process 389 is correct! ✅
+Process 390 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.07it/s]100%|██████████| 1/1 [00:00<00:00,  9.06it/s]
+Process 390 done.
+Process 390 is correct! ✅
+Process 391 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 25.19it/s]
+Process 391 done.
+Process 391 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTACTATGGGTTTAACTCACCCACCACCCATCCTACAACTCAACCACACGGTCAGTGACCTACGTTAATTAGACCAACCAAAGCCTGGTCGTTGAAGGTGGTAATGAGTTCTGGGTAGTGCTAAGGCTAACGACAGGCATACTAAGGCTCATGGCGTCAGCTATCCCTCAAAGCCCGTCAGTTCTCCTCACCGGTCGAGAGTCTTCAAGTACGCGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTATGGGTTTAACTCACCCACCACCCATCCTACAACTCAACCACACGGTCAGTGACCTTCGTTAATTAGACCAACCAAGGCCTGGTTGTTGAAAGGTGGTAATGAGTTCTGAGGTAGTGCTAAGGCTAACGACAGGCATACTAAGACTGTGGCGTCGGCTACCTTGAAGGCCGTCCGTTCTCCTCGCCGGTCGAGAGTCTTCGAGGTACGCGAAGATAGAGC
+error counts = 90
+
+Process 392 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.33it/s]100%|██████████| 1/1 [00:00<00:00,  9.32it/s]
+Process 392 done.
+Process 392 is correct! ✅
+Process 393 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.33it/s]100%|██████████| 1/1 [00:00<00:00,  9.32it/s]
+Process 393 done.
+Process 393 is correct! ✅
+Process 394 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.61it/s]100%|██████████| 1/1 [00:00<00:00,  8.61it/s]
+Process 394 done.
+Process 394 is correct! ✅
+Process 395 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.30it/s]100%|██████████| 1/1 [00:00<00:00,  9.29it/s]
+Process 395 done.
+Process 395 is correct! ✅
+Process 396 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.07it/s]100%|██████████| 1/1 [00:00<00:00,  8.06it/s]
+Process 396 done.
+Process 396 is correct! ✅
+Process 397 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.48it/s]100%|██████████| 1/1 [00:00<00:00,  8.47it/s]
+Process 397 done.
+Process 397 is correct! ✅
+Process 398 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.41it/s]100%|██████████| 1/1 [00:00<00:00,  8.40it/s]
+Process 398 done.
+Process 398 is correct! ✅
+Process 399 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.46it/s]100%|██████████| 1/1 [00:00<00:00,  9.44it/s]
+Process 399 done.
+Process 399 is correct! ✅
+Process 400 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.81it/s]100%|██████████| 1/1 [00:00<00:00,  8.80it/s]
+Process 400 done.
+Process 400 is correct! ✅
+Process 401 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.37it/s]100%|██████████| 1/1 [00:00<00:00,  9.36it/s]
+Process 401 done.
+Process 401 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAAGAAAGGAGGAAAGAAGGCGAAGAAAGAAAGGTCTACCTCTGTGTCGCTGTGGTTGTACATCATGTCGTGATAAGGCTCCGCAAAATGAAACGATGTACGCGGAGACGAAGAGGTTAAAGGCGAATTCGAACTGTACATGAGTCCGCCTCCATACAAAACACAAGGCGCTGTAATGGGGCCTCTCGAATGGAGACGAGGGTACTAAAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAAGAAAGGAGGAAAGAAGGCGAAGAAAGAAAGGTCTACCTCTGTGTCGCTGTGGTTGTACATCATGTCGTGATAAGGCTCCGCAAAATGAAACGATGTACGCGGAGACGAAGAGGTTAAAGGCGAATTCGAACTGTACATGAGTCCGCCTCCATACAAAACACAAGGCGCTGTAATGGGGCCTCTCGAATGGAGACGAGGGTACTAGCGAAGATAGAGC
+error counts = 2
+
+Process 402 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 14.43it/s]
+Process 402 done.
+Process 402 is correct! ✅
+Process 403 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.32it/s]100%|██████████| 1/1 [00:00<00:00,  9.31it/s]
+Process 403 done.
+Process 403 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAAGAAAGGAGGAAAGAAAGGGCGTCACCTCACCTCAGCTAGCACGATCTCGCGGTGTACCTACTCGTGGACTCAAGGCGAATGTATGCCCTATTCTATTCTCGCTGGCATCTCTGTTTAAGGCCAAGCTTGAGGAGGACCAATAGAGAGCCGGGTATCGCGGCAAGGCGGGCAAGCCTGTGGGAATTGCTGGAGTGTGTCAATGGCTCGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAAGAAAGGAGGAAAGAAAGGGCGTCACCTCACCTCAGCTAGCACGATCTCGTGGTGTACCTACTCGTGGACTCAAGGCGAATGTATGCCCTATTCTATTCTCGCTGGCATCTCTGTTTAAGGCCAAGCTTGAGGAGGACCAATAGAGAGCCGGGTATCGCGGCAAGGCGGGCAAGCCTGTGGGAATTGCTGGAGTGTGTCAATGGCTCGAAGATAGAGC
+error counts = 1
+
+Process 404 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 14.94it/s]
+Process 404 done.
+Process 404 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAAGAAAGGAGGAAAGATGTCGACGGCGGACTTTTCACCAGAAGCGAGACTAATTCGTGTGCCCTCTACAGGGAAAGGCGGTGCAGATATTAGCTGTCAGCCCTCCAAGAGTCCCTCATAAGGCGATCTGCCTTGAACGGAACCACGACATGTCCCCCTTGAGCAAGGCTTTACGTTCGTCCCGAGGTTGAAGCTGCTCGAGCGTCTGCGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAAGAAAGGAGGAAAGATGTCGACGGCGGACTTTTCACCAGAAGCGAGACTAATTCGTGTGCCCTCTACAGGGAAAGGCGGTGCAGATATTAGCTGTCGGCCCTCCAAGAGTCCCTCATAAGGCGATCTGCCTTGAACGGAACCACGACATGTCCCCTTTGAGCAAGGCTTTACGTTCGTCCCGAGGTTGAAGCTGCTCGAGCGTCTGCGAAGATAGAGC
+error counts = 2
+
+Process 405 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.90it/s]100%|██████████| 1/1 [00:00<00:00,  8.89it/s]
+Process 405 done.
+Process 405 is correct! ✅
+Process 406 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.90it/s]100%|██████████| 1/1 [00:00<00:00,  8.89it/s]
+Process 406 done.
+Process 406 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAAGAAGTCAAACAGTTGTTTGCTTAAGTGCCGCTCACAGCATGGCTAGTTACTGAGGTACTAGCCGGAAATTCAAGGCATTCACACACTCCATCGTGGTAGTTCCTATTTGTGCCTCGAAGGCGAAAGTCCTGGCTATCGTAGAGTAGTCACAACGCAGCCGTAAGGCTTTGAAGACCACAGGGGCCATTCCAGATTGATGGACACTTGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAAGAAGTCAAACAGTTGTTTGCTTAAGTGCCGCTCACAGCATGGCTAGTTACTGAGGTACTAGCCGGAAATTCAAGGCATTCACACACTCCATCGTGGTAGTTCCTATTTGTGCCTCGAAGGCGAAAGTCCTGGCTATCGTAGAGTAGTCACAACGCAGCCGTAAGGCTTTGTAGAGCACAGGGGCCATTCCAGATTGATGGACACTTGAAGATAGAGC
+error counts = 2
+
+Process 407 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.46it/s]100%|██████████| 1/1 [00:00<00:00,  9.44it/s]
+Process 407 done.
+Process 407 is correct! ✅
+Process 408 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.19it/s]100%|██████████| 1/1 [00:00<00:00,  9.18it/s]
+Process 408 done.
+Process 408 is correct! ✅
+Process 409 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.39it/s]100%|██████████| 1/1 [00:00<00:00,  9.38it/s]
+Process 409 done.
+Process 409 is correct! ✅
+Process 410 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.52it/s]100%|██████████| 1/1 [00:00<00:00,  9.51it/s]
+Process 410 done.
+Process 410 is correct! ✅
+Process 411 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.21it/s]100%|██████████| 1/1 [00:00<00:00,  9.20it/s]
+Process 411 done.
+Process 411 is correct! ✅
+Process 412 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.58it/s]100%|██████████| 1/1 [00:00<00:00,  9.57it/s]
+Process 412 done.
+Process 412 is correct! ✅
+Process 413 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.68it/s]100%|██████████| 1/1 [00:00<00:00,  9.66it/s]
+Process 413 done.
+Process 413 is correct! ✅
+Process 414 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  6.79it/s]100%|██████████| 1/1 [00:00<00:00,  6.78it/s]
+Process 414 done.
+Process 414 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTTCCGCAAAGATGGGTTTGGCGGAGTAATGTCGTTTCAACCCAAGTGGGAACTTATGACGGCCAAATTCTAAGGAAAGGCGTCTGAGATAGGTGTACTTCTCAAGTACAGCGCATTAGCGAAGGCCCTCACGAATCAGGAAGTGCTGACAGACGCGCCACTGCAGAAGGCCGCAGCAGGCCAGTACTATGTGTCGATCGTGCCAGTCTCAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTTCCGCAAAGATGGGTTTGGCGGAGTAATGTCGTTTCAACCCAAGTGGGAACTTATGACGGCCAAATTCTAGAGCAAGGCGTCTGAGATAGGTGTACTTCTCAAGTACAGCGCATTAGCGAAGGCCCTCACGAATCAGGAAGTGCTGACAGACGCGCCACTGCAGAAGGCCGCAGCAGGCCAGTACTATGTGTCGATCGTGCCAGTCTCAGAAGATAGAGC
+error counts = 3
+
+Process 415 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.85it/s]100%|██████████| 1/1 [00:00<00:00,  8.84it/s]
+Process 415 done.
+Process 415 is correct! ✅
+Process 416 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.24it/s]100%|██████████| 1/1 [00:00<00:00,  9.23it/s]
+Process 416 done.
+Process 416 is correct! ✅
+Process 417 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.60it/s]100%|██████████| 1/1 [00:00<00:00,  8.59it/s]
+Process 417 done.
+Process 417 is correct! ✅
+Process 418 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.69it/s]100%|██████████| 1/1 [00:00<00:00,  8.68it/s]
+Process 418 done.
+Process 418 is correct! ✅
+Process 419 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.33it/s]100%|██████████| 1/1 [00:00<00:00,  8.32it/s]
+Process 419 done.
+Process 419 is correct! ✅
+Process 420 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.54it/s]100%|██████████| 1/1 [00:00<00:00,  9.53it/s]
+Process 420 done.
+Process 420 is correct! ✅
+Process 421 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.51it/s]100%|██████████| 1/1 [00:00<00:00,  9.50it/s]
+Process 421 done.
+Process 421 is correct! ✅
+Process 422 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.46it/s]100%|██████████| 1/1 [00:00<00:00,  9.45it/s]
+Process 422 done.
+Process 422 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTACTCAAAGAAACGTTTAAATCGACGTCCCAAACCTCAGCTGATGCTCGAGAATCTCCGACGAACTTGGATATGTAAGGCGGGGCAGTAGGTGAAGGCATTGCGACCAAGTGCTATTCAAAAGGCTGGTTTCTGTAGGCCAGGGTGCTAATCCCCGGACGCTAGAAAGGCAAATAATGACGCTCGATTAAAGGACCCGGAACCGGCCCCTGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTACTCAAAGAAACGTTTAAATCGACGTCCCAAACCTCAGCTGATGCTCGAGAATCTCCGACGAACTTGGATATGTAAGGCGGGGCAGTAGGTGAAGGCATTGCGACCAAGTGCTATTCAAAAGGCTGGTTTCTGTAGGCAGGGGTGCTAATCCCCGGACGCTAGAAAGGCAAATAATGACGCTCGATTAAAGGACCCGGAACCGGCCCCTGAAGATAGAGC
+error counts = 2
+
+Process 423 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.20it/s]100%|██████████| 1/1 [00:00<00:00,  9.19it/s]
+Process 423 done.
+Process 423 is correct! ✅
+Process 424 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 18.48it/s]
+Process 424 done.
+Process 424 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTACCTAAAGCCCTCGTTTAAGGACGTAAACTCAACTCCCTATCGTCCACATCATCATCCAGTCCATTATGCTAGTAAGGCGCTCGAATTCACGCTGCTGACTGACCAATGTATGATTCGAAAGGCCCCGGTAGGCGTCGTCAATTGCCGTGAGACGTGTAACGGAAAGGCTATGACCTGGAAAATCACGAGTAACCGGGCCCGAGCGATCGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTCCCTAAAGCCCTCGTTTAAGGACGTAAACTCAACTCCCTATCGTCCACATCATCATCCAGTCCATTATGCTAGTAAGGCGCTCGAATTCACGCTGCTGACTGACCAATGTATGATTCGAAAGGCCCCGGTAGGCGTCGTCAATTGCCGTGAGACGTGTAACGGAAAGGCTATGACCTGGAAAATCACGAGTAACCGGGCCCGAGCGATCGAAGATAGAGC
+error counts = 1
+
+Process 425 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.53it/s]100%|██████████| 1/1 [00:00<00:00,  9.52it/s]
+Process 425 done.
+Process 425 is correct! ✅
+Process 426 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.70it/s]100%|██████████| 1/1 [00:00<00:00,  8.69it/s]
+Process 426 done.
+Process 426 is correct! ✅
+Process 427 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.50it/s]100%|██████████| 1/1 [00:00<00:00,  7.50it/s]
+Process 427 done.
+Process 427 is correct! ✅
+Process 428 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.26it/s]100%|██████████| 1/1 [00:00<00:00,  9.25it/s]
+Process 428 done.
+Process 428 is correct! ✅
+Process 429 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.98it/s]100%|██████████| 1/1 [00:00<00:00,  9.97it/s]
+Process 429 done.
+Process 429 is correct! ✅
+Process 430 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.11it/s]100%|██████████| 1/1 [00:00<00:00,  9.10it/s]
+Process 430 done.
+Process 430 is correct! ✅
+Process 431 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.44it/s]100%|██████████| 1/1 [00:00<00:00,  8.43it/s]
+Process 431 done.
+Process 431 is correct! ✅
+Process 432 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.49it/s]100%|██████████| 1/1 [00:00<00:00,  9.48it/s]
+Process 432 done.
+Process 432 is correct! ✅
+Process 433 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.25it/s]100%|██████████| 1/1 [00:00<00:00,  8.24it/s]
+Process 433 done.
+Process 433 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTTCCGGAGGACCACTTGCAGGCGAAGAAAGAAAGGTCCCAACAGTACATGGCGAAGCTTGCCAGTCTGTCAGTGCAAGGCGACTAAGAGCACGTTATTTATCCAATGAGGGGCCCCGTTTGAAGGCCATAGATCAGACTAACGGCTTCATATGTGAAGATAGGGCTAAGGCTTAACGCTTGACCGAGCAGATAGGATGGTGGATATTCGGGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTTCCGGAGGACCACTTGCAGGCGAAGAAAGAAAGGTCCCAACAGTACATGGCGAAGCTTGCCAGTCTGTCAGTGCAAGGCGACTAGAGCACGTTATTTATCCAATGAGGGGCCCCGTTTGAAGGCCATAGATCAGACTAACGGCTTCATATGTGAAGATAGGGCTAAGGCTTAACGCTTGACCGAGCAGATAGGATGGTGGATATTCGGGGAAGATAGAGC
+error counts = 91
+
+Process 434 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.44it/s]100%|██████████| 1/1 [00:00<00:00,  8.43it/s]
+Process 434 done.
+Process 434 is correct! ✅
+Process 435 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.41it/s]100%|██████████| 1/1 [00:00<00:00,  9.40it/s]
+Process 435 done.
+Process 435 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTTCCGGAGGACCACTTGCAAAGAAAGGATCGTCATTCATGGTCCACCACTTAGTAAGTCGACATGATGCTCGTATAAGGCTCTGCCGACTGAGTCTGATAGTCGAAAATCTGACAAGCCGAAGGCTGGCAAATGCGATGCTCGAACAGACGGCTCAAATTAGGAAAAGGCTGATAATTGTCAGCAGCACCACAGCTTCGACGGTGTTTAAGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTTCCGGAGGACCACTTGCAAAGAAAGGATCGTCATTCATGGTCCACCACTTAGTAAGTCGACATGATGCTCGTATAAGGCTCTGCCGACTGAGTCTGATAGTCGAAAATCTGACAAGCCGAAGGCTGGCAAATGCGATGCTCGAACAGACGGCTCAAATTAGGAAAAGGCTGATAATTGTCAGCAGCACCACAGCTTCGACGGTGTTTAGGAAGATAGAGC
+error counts = 1
+
+Process 436 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.50it/s]100%|██████████| 1/1 [00:00<00:00,  9.49it/s]
+Process 436 done.
+Process 436 is correct! ✅
+Process 437 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.33it/s]100%|██████████| 1/1 [00:00<00:00,  8.32it/s]
+Process 437 done.
+Process 437 is correct! ✅
+Process 438 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.34it/s]100%|██████████| 1/1 [00:00<00:00,  8.34it/s]
+Process 438 done.
+Process 438 is correct! ✅
+Process 439 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.26it/s]100%|██████████| 1/1 [00:00<00:00,  8.25it/s]
+Process 439 done.
+Process 439 is correct! ✅
+Process 440 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.38it/s]100%|██████████| 1/1 [00:00<00:00,  8.37it/s]
+Process 440 done.
+Process 440 is correct! ✅
+Process 441 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.65it/s]100%|██████████| 1/1 [00:00<00:00,  8.64it/s]
+Process 441 done.
+Process 441 is correct! ✅
+Process 442 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 14.16it/s]
+Process 442 done.
+Process 442 is correct! ✅
+Process 443 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.29it/s]100%|██████████| 1/1 [00:00<00:00,  8.28it/s]
+Process 443 done.
+Process 443 is correct! ✅
+Process 444 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.32it/s]100%|██████████| 1/1 [00:00<00:00,  9.31it/s]
+Process 444 done.
+Process 444 is correct! ✅
+Process 445 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.53it/s]100%|██████████| 1/1 [00:00<00:00,  9.52it/s]
+Process 445 done.
+Process 445 is correct! ✅
+Process 446 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.21it/s]100%|██████████| 1/1 [00:00<00:00,  9.20it/s]
+Process 446 done.
+Process 446 is correct! ✅
+Process 447 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.59it/s]100%|██████████| 1/1 [00:00<00:00,  9.58it/s]
+Process 447 done.
+Process 447 is correct! ✅
+Process 448 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.22it/s]100%|██████████| 1/1 [00:00<00:00,  9.21it/s]
+Process 448 done.
+Process 448 is correct! ✅
+Process 449 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.52it/s]100%|██████████| 1/1 [00:00<00:00,  8.51it/s]
+Process 449 done.
+Process 449 is correct! ✅
+Process 450 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.30it/s]100%|██████████| 1/1 [00:00<00:00,  9.29it/s]
+Process 450 done.
+Process 450 is correct! ✅
+Process 451 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.75it/s]100%|██████████| 1/1 [00:00<00:00,  7.74it/s]
+Process 451 done.
+Process 451 is correct! ✅
+Process 452 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.02it/s]100%|██████████| 1/1 [00:00<00:00,  9.01it/s]
+Process 452 done.
+Process 452 is correct! ✅
+Process 453 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.69it/s]100%|██████████| 1/1 [00:00<00:00,  7.69it/s]
+Process 453 done.
+Process 453 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAAGTTTCATTATGTTTCCGGCCTGAACTCACCCTCACCTTGCATGGTCAAACGCTCCGATATCGGAGTTACTGGCGCTGTTGCCGTAGGCCGAACTGCGAGAGTCAGTGTGAGTGCTCGCGCTGATATTAGAGTGAAATCCACCCATAGAAATATGGGCTATCGCGCTACGAACGTTCACGAGAGTTGTGTGTGCACCCACTGGAATGGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAAGTTTCATTATGTTTCCGGCCTGAACTCACCCTCACCTTGCATGGTCAAACGCTCCGATATCGGAGTTACTGGCGCTGTTGCCGTAGGCCGAACTGCGAGAGTCAGTGTGAGTGCTCGCGCTGATATTAGAGCGAAATCCACCCATAGAAATATGGGCTATCGCGCTACGAACGTTCACGAGAGTTGTGTGTGCACCCACTGGAATGGAAGATAGAGC
+error counts = 1
+
+Process 454 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.23it/s]100%|██████████| 1/1 [00:00<00:00,  8.22it/s]
+Process 454 done.
+Process 454 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAAATTTCATCCGCAAAGAAACCACCAAGTCCCACTCCCTATCCTTTGGCCTAGCTGTCCAGTCTCTCATCCACAGCGCTGTCCGTTGTGTGCACGTTCCTTACTCTGCCACATTTTACTGCGCTGTCTCTCTTCCGTTGGCACGCCTTGTATCGTCACTCCTAGGCGCTCTGTGAGAGAGCCCCGTAGCAGCCGGATGTAACTCGGGCGGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAAATTTCATCCGCAAAGAAACCACCAAGTCCCACTCCCTATCCTTTGGCCTAGCTGTCCAGTCTCTCATCCACAGCGCTGTCCGTTGTGTGCACGTTCCTTACTCTGCCACATTTTACTGCGCTGTCTCTCTTCCGTTGGCACGCCTTGTATCGTCACTCCTAGGCGCTCTGTGAGAGAGCCCCGTAGCAGCTGGATGTAACTCGGGCGGAAGATAGAGC
+error counts = 1
+
+Process 455 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.44it/s]100%|██████████| 1/1 [00:00<00:00,  9.43it/s]
+Process 455 done.
+Process 455 is correct! ✅
+Process 456 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.48it/s]100%|██████████| 1/1 [00:00<00:00,  8.47it/s]
+Process 456 done.
+Process 456 is correct! ✅
+Process 457 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.60it/s]100%|██████████| 1/1 [00:00<00:00,  8.59it/s]
+Process 457 done.
+Process 457 is correct! ✅
+Process 458 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.20it/s]100%|██████████| 1/1 [00:00<00:00,  9.19it/s]
+Process 458 done.
+Process 458 is correct! ✅
+Process 459 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.38it/s]100%|██████████| 1/1 [00:00<00:00,  9.36it/s]
+Process 459 done.
+Process 459 is correct! ✅
+Process 460 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.38it/s]100%|██████████| 1/1 [00:00<00:00,  9.37it/s]
+Process 460 done.
+Process 460 is correct! ✅
+Process 461 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.21it/s]100%|██████████| 1/1 [00:00<00:00,  9.20it/s]
+Process 461 done.
+Process 461 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTAACATGTTACCATCTTTAAGTCGGAAAGGGCGTCTCATGCCATGCGATATCCTAGCTTGTTCGTGCATGGGTCGGCGCTCAGACGCTGTTGATACATGACACTACCTTCTCCCTGAGCCGCGCTAAAGCAGTGCCCGCTCTTGGACCTCATAGAAATCATGCGGGCGCTATCCGGTGAGTCGATAGGACGCCTTAATTTATGTTAAGCGGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTAACATGTTACCATCTTTAAGTCGGAAAGGGCGTCTCATGCCATGCGATATCCTAGCTTGTTCGTGCATGGGTCGGCGCTCAGACGCTGTTGATACATGACACTACCTTCTCCCTGAGCCGCGCTAGAGCAGTGCCCGCTCTTGGACCTCATAGAAATCATGCGGGCGCTATCCGGTGAGTCGATAGGACGCCTTAATTTATGTTAAGCGGAAGATAGAGC
+error counts = 1
+
+Process 462 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.27it/s]100%|██████████| 1/1 [00:00<00:00,  9.26it/s]
+Process 462 done.
+Process 462 is correct! ✅
+Process 463 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.79it/s]100%|██████████| 1/1 [00:00<00:00,  8.78it/s]
+Process 463 done.
+Process 463 is correct! ✅
+Process 464 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.37it/s]100%|██████████| 1/1 [00:00<00:00,  9.36it/s]
+Process 464 done.
+Process 464 is correct! ✅
+Process 465 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.55it/s]100%|██████████| 1/1 [00:00<00:00,  8.54it/s]
+Process 465 done.
+Process 465 is correct! ✅
+Process 466 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.51it/s]100%|██████████| 1/1 [00:00<00:00,  9.50it/s]
+Process 466 done.
+Process 466 is correct! ✅
+Process 467 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.99it/s]100%|██████████| 1/1 [00:00<00:00,  8.98it/s]
+Process 467 done.
+Process 467 is correct! ✅
+Process 468 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.52it/s]100%|██████████| 1/1 [00:00<00:00,  8.51it/s]
+Process 468 done.
+Process 468 is correct! ✅
+Process 469 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.47it/s]100%|██████████| 1/1 [00:00<00:00,  8.46it/s]
+Process 469 done.
+Process 469 is correct! ✅
+Process 470 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.32it/s]100%|██████████| 1/1 [00:00<00:00,  9.31it/s]
+Process 470 done.
+Process 470 is correct! ✅
+Process 471 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 19.32it/s]
+Process 471 done.
+Process 471 is correct! ✅
+Process 472 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.18it/s]100%|██████████| 1/1 [00:00<00:00,  8.18it/s]
+Process 472 done.
+Process 472 is correct! ✅
+Process 473 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.55it/s]100%|██████████| 1/1 [00:00<00:00,  9.54it/s]
+Process 473 done.
+Process 473 is correct! ✅
+Process 474 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.54it/s]100%|██████████| 1/1 [00:00<00:00,  9.53it/s]
+Process 474 done.
+Process 474 is correct! ✅
+Process 475 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.37it/s]100%|██████████| 1/1 [00:00<00:00,  9.37it/s]
+Process 475 done.
+Process 475 is correct! ✅
+Process 476 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.71it/s]100%|██████████| 1/1 [00:00<00:00,  7.70it/s]
+Process 476 done.
+Process 476 is correct! ✅
+Process 477 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.39it/s]100%|██████████| 1/1 [00:00<00:00,  9.38it/s]
+Process 477 done.
+Process 477 is correct! ✅
+Process 478 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.44it/s]100%|██████████| 1/1 [00:00<00:00,  9.43it/s]
+Process 478 done.
+Process 478 is correct! ✅
+Process 479 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.12it/s]100%|██████████| 1/1 [00:00<00:00,  9.11it/s]
+Process 479 done.
+Process 479 not correct. ❌
+Normal strand assembly result is 
+TTTCTGTTGGTGCTGATATTGCTACCGACGAAACTTTGTTAGGCGAAGAATCTTTACTCGCTTAGCACTGGTAGCAGGTTTGACGCTCACCATTTACGCGCTTCGCCGAGAGTCCCTTAAGAGTGTAGGCTGGTTGTGTAAAGCGCTCTCTTAAAATTGGACTTATGGACCTGAATGTAGAGTGAAAGCGCTGCTCCATGCGCCCGTTTGGGGCGAATTAATGCAACTGACCGAAGATAGAGC
+Reference is 
+TTTCTGTTGGTGCTGATATTGCTACCGACGAAACTTTGTTAGGCGAAGAATCTTTACTCGCTTAGCACTGGTAGCAGGTTTGACGCTCACCATTTACGCGCTTCGCCGAGAGTCCCTTAAGAGTGTAGGCTGGTTGTGTAGAGCGCTCTCTTAAAATTGGACTTATGGACCTGAATGTAGAGTGAAAGCGCTGCTCCATGCGCCCGTTTGGGGCGAATTAATGCAACTGACCGAAGATAGAGC
+error counts = 1
+
+Process 480 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.35it/s]100%|██████████| 1/1 [00:00<00:00,  9.34it/s]
+Process 480 done.
+Process 480 is correct! ✅
+Process 481 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.51it/s]100%|██████████| 1/1 [00:00<00:00,  7.51it/s]
+Process 481 done.
+Process 481 is correct! ✅
+Process 482 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  8.27it/s]100%|██████████| 1/1 [00:00<00:00,  8.26it/s]
+Process 482 done.
+Process 482 is correct! ✅
+Process 483 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.85it/s]100%|██████████| 1/1 [00:00<00:00,  7.85it/s]
+Process 483 done.
+Process 483 is correct! ✅
+Process 484 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.33it/s]100%|██████████| 1/1 [00:00<00:00,  9.32it/s]
+Process 484 done.
+Process 484 is correct! ✅
+Process 485 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.61it/s]100%|██████████| 1/1 [00:00<00:00,  9.60it/s]
+Process 485 done.
+Process 485 is correct! ✅
+Process 486 working...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.12it/s]100%|██████████| 1/1 [00:00<00:00,  9.11it/s]
+Process 486 done.
+Process 486 is correct! ✅
+Time consumed: 54.96025776863098 seconds
