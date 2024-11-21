@@ -157,6 +157,10 @@ if __name__ == '__main__':
             assembly_results.append('A'*243)
             continue  # Skip further processing for this sequence
 
+        # if assembly length is not 243, pad or truncate to 243
+        if len(assembly_result) != 243:
+            assembly_result = assembly_result[:243] if len(assembly_result) > 243 else assembly_result + 'A'*(243-len(assembly_result))
+        
         assembly_results.append(assembly_result)
         correct_count += 1 if assembly_result == refs[idx][1] else 0
         print(f'Process {idx} done.')

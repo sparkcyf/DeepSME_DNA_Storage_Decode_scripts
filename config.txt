@@ -1,0 +1,6 @@
+k_mer_size: 12
+minimizer_window_size: 8
+minimal_chaining_score: 15
+n_discard_chains_minimizers_le: 2
+minimal_peak_DP_alignment_score_to_output: 15
+
