@@ -6,6 +6,10 @@
 
 ```bash
 conda env create -f environment.yml && conda activate CHN
+
+# optional, if you want to use mpi4py for parallel decoding
+# you need to have MPI installed on your system first
+pip install mpi4py
 ```
 
 2. Install minimap2 and [muscle5](https://github.com/rcedgar/muscle) for multiple sequence alignment
@@ -22,7 +26,11 @@ cp /path/to/fastq/xxx.fastq fastq/basecalling.fastq
 ## Usage
 
 ```bash
+# run the decoding script
 time bash run.sh
+
+# if you want to use mpi4py for parallel decoding
+time bash run_mpi.sh
 ```
 
 ## Output

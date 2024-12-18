@@ -56,7 +56,7 @@ for SEQ_BATCH_SIZE in "${SEQ_BATCH_SIZES[@]}"; do
     
     echo "Running decoding with SEQ_BATCH_SIZE=$SEQ_BATCH_SIZE, RANDOM_SEED=$RANDOM_SEED"
 
-    FAILED_INDEX_TXT=$FAILED_INDEX_TXT INPUT_FASTA_PATH=$INPUT_FASTA_PATH python3 -u sustech_decode.py >> $DECODE_LOG 2>&1
+    FAILED_INDEX_TXT=$FAILED_INDEX_TXT INPUT_FASTA_PATH=$INPUT_FASTA_PATH mpiexec -n 32 python3 -u sustech_decode_mpi.py >> $DECODE_LOG 2>&1
   done
 done
 
