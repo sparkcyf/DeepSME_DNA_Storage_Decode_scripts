@@ -25,6 +25,9 @@ cp /path/to/fastq/xxx.fastq fastq/basecalling.fastq
 
 ## Usage
 
+> [!NOTE]
+> Expected run time for demo decoding script on a server with AMD Ryzen 9 5950X, 128G of RAM and SSD storage is about **160** minutes.
+
 ```bash
 # run the decoding script
 time bash run.sh
