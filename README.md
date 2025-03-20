@@ -16,7 +16,7 @@ pip install mpi4py
 
 3. Set the environment variable `MINIMAP2_PATH`, `MUSCLE_PATH` in `run.sh` to the path of minimap2 and muscle5.
 
-4. Create a folder named `fastq` and put the basecalled fastq files in it. (you can download the sample fastq here: https://mirrors.sustech.edu.cn/site/datasets-share/deepsme/deepsme_sample_basecalled.fastq )
+4. Create a folder named `fastq` and put the basecalled fastq files in it. (you can download the sample fastq from NCBI SRA: https://www.ncbi.nlm.nih.gov/sra/SRX28067610 )
 
 ```bash
 mkdir fastq
